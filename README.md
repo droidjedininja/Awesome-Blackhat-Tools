@@ -84,29 +84,36 @@ Tools are grouped by:
 
 We welcome the community to help improve and expand this collection!
 
-### 🛠 How to Contribute
+📁 Tools are organized in two ways inside the `tools/` directory:
+- By **region** of the Black Hat event (e.g., USA, Europe) under `tools/regions/`
+- By **category** (e.g., Red Teaming, OSINT) under `tools/categories/`
 
-- 📁 Tools are organized by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside the `blackhat_tools/` directory.
-- 🧠 Inside each year's folder, tools are grouped by **track category** — such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.
-- 📝 Each tool is defined in a structured `.json` file that includes:
-  - Tool Name
-  - Description
-  - GitHub URL (if available)
-  - Tracks (categories)
-  - Speaker(s)
-  - Source Event
-  - Year
+🧠 Inside each subfolder, tools are grouped by **year** (e.g., 2024).
+
+📝 Each tool is stored as a structured `.json` file that includes the following fields:
+- Tool Name  
+- Description  
+- GitHub URL (if available)  
+- Tracks (categories)  
+- Speaker(s)  
+- Source Event  
+- Year
+
+---
 
 ### 📄 To Add a Tool
 
-1. Create a `.json` file inside the appropriate directory:
+Create a `.json` file in **both** of the following locations if possible:
    ```
    output_by_location/{LOCATION}/{YEAR}/tool-name.json
+   tools/categories/{CATEGORY}/{YEAR}/tool-name.json
    ```
-2. Follow the format outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-3. Submit a Pull Request.
+Then:
 
-> ⚠️ Make sure your submission is concise, accurate, and categorized correctly. All badges and README entries are auto-generated.
+1. Follow the format outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md)  
+2. Submit a Pull Request
+
+> ⚠️ Make sure your submission is concise, accurate, and correctly categorized. Badges and README entries are auto-generated.
 
 
 
