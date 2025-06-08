@@ -49,7 +49,7 @@ An introductory blog post can be found [here](https://medium.com/@Ne0nd0g/introd
 
 </details>
 
-<details><summary><strong>WarBerryPi</strong> - By Sh1n0g1 </summary>
+<details><summary><strong>WarBerryPi</strong> - By Yiannis Ioannides </summary>
 
 📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2016-blue)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)  
 🔗 [GitHub](https://github.com/secgroundzero/warberry)  
