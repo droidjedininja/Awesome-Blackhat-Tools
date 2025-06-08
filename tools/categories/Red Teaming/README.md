@@ -4,7 +4,7 @@
 
 Red Teaming involves offensive tactics, adversary simulations, lateral movement, social engineering, privilege escalation, and post-exploitation. The tools listed here assist in such activities.
 
----
+
 
 ## 🔧 Tools List
 
@@ -24,6 +24,14 @@ Red Teaming involves offensive tactics, adversary simulations, lateral movement,
 
 </details>
 
+<details><summary><strong>Merlin</strong> - By Ne0nd0g </summary>
+
+📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2018-blue)](https://www.toolswatch.org/2018/05/black-hat-arsenal-usa-2018-the-w0w-lineup)  
+🔗 [GitHub](https://github.com/Ne0nd0g/merlin)  
+📝 **Description:** Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+An introductory blog post can be found here: https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
+
+</details>
 
 
 ---
