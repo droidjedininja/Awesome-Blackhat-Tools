@@ -102,16 +102,22 @@ We welcome the community to help improve and expand this collection!
    output_by_location/{LOCATION}/{YEAR}/tool-name.json
    ```
 2. Follow the format outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-3. Open a Pull Request.
+3. Submit a Pull Request.
 
 > ⚠️ Make sure your submission is concise, accurate, and categorized correctly. All badges and README entries are auto-generated.
 
 ---
 
-## 📄 License
+## 📜 License
 
 Content is shared under the [CC0 1.0 Universal](LICENSE) license — free to use, modify, and distribute.
 
 ---
 
 > Inspired by [Awesome Lists](https://awesome.re) and maintained by the cybersecurity community — focused on tools officially presented at **Black Hat**.
+
+---
+
+### 🔧 Maintained by [UCYBERS](https://ucybers.com/) | Last Updated: 2025
+
+### 🎩 Happy Hacking from the Black Hat side!
