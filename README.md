@@ -5,7 +5,7 @@
 > ✅ All tools in this repository were officially presented at **Black Hat events** (USA, Europe, Asia, MEA, Canada).  
 > 🛡️ This list serves as a practical reference for cybersecurity professionals seeking real-world, field-tested tools.
 
----
+
 Whether you're into Red Teaming, Blue teaming, application security, or OSINT — this curated list gives you direct access to powerful, field-tested tools demonstrated live by top cybersecurity professionals at Black Hat events around the world.
 
 ## 📌 How This List is Organized
@@ -64,7 +64,9 @@ Tools are grouped by:
 - [2023](blackhat_tools/USA/2023/README.md)
 - [2024](blackhat_tools/USA/2024/README.md)
 - [2025](blackhat_tools/USA/2025/README.md)
+
 ---
+
 ## 🎯 Tool Categories
 
 - 🔴 **Red Teaming**
@@ -106,17 +108,17 @@ We welcome the community to help improve and expand this collection!
 
 > ⚠️ Make sure your submission is concise, accurate, and categorized correctly. All badges and README entries are auto-generated.
 
----
+
 
 ## 📜 License
 
 Content is shared under the [CC0 1.0 Universal](LICENSE) license — free to use, modify, and distribute.
 
----
+
 
 > Inspired by [Awesome Lists](https://awesome.re) and maintained by the cybersecurity community — focused on tools officially presented at **Black Hat**.
 
----
+
 
 ### 🔧 Maintained by [UCYBERS](https://ucybers.com/) | Last Updated: 2025
 
