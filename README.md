@@ -35,7 +35,7 @@ Tools are grouped by:
 
 ### Canada
 - [2023](tools/regions/Canada/2023/README.md)
-- [2024](tools/regions/2024/README.md)
+- [2024](tools/regions/Canada/2024/README.md)
 
 ### Europe
 - [2014](tools/regions/Europe/2014/README.md)
