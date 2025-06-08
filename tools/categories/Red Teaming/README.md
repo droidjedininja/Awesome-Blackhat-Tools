@@ -8,6 +8,10 @@ Red Teaming involves offensive tactics, adversary simulations, lateral movement,
 
 ## 🔧 Tools List
 
+### 📅 2025
+
+---
+### 📅 2024
 <details><summary><strong>ADOKit</strong> - By h4wkst3r</summary>
 
 📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2024-blue)](https://www.blackhat.com/us-24/arsenal/schedule/index.html#adokit-azure-devops-services-attack-toolkit-38148)  
