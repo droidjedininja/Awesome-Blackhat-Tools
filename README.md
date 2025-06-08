@@ -72,7 +72,7 @@ Tools are grouped by:
 
 ## 🎯 Tool Categories
 
-- 🔴 **Red Teaming**
+- 🔴 [**Red Teaming**](https://github.com/UCYBERS/Awesome-BlackHat-Tools/blob/a30cfbc9884e754aeeb44e8b691bbb18246f1216/tools/categories/Red%20Teaming/README.md)
 - 🔵 **Blue Teaming**
 - 🟡 **OSINT & Recon**
 - ⚙️ **Exploit Development**
