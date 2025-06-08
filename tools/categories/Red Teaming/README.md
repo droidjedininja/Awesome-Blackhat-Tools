@@ -33,6 +33,14 @@ An introductory blog post can be found [here](https://medium.com/@Ne0nd0g/introd
 
 </details>
 
+<details><summary><strong>SCMKit</strong> - By Hawkins </summary>
+
+📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2022-blue)](https://www.blackhat.com/us-22/arsenal/schedule/index.html#scmkit-source-code-management-attack-toolkit-26592)  
+🔗 [GitHub](https://github.com/xforcered/SCMKit)  
+📝 **Description:** Source Code Management Attack Toolkit - SCMKit is a toolkit that can be used to attack SCM systems. SCMKit allows the user to specify the SCM system and attack module to use, along with specifying valid credentials (username/password or API key) to the respective SCM system. Currently, the SCM systems that SCMKit supports are GitHub Enterprise, GitLab Enterprise and Bitbucket Server. The attack modules supported include reconnaissance, privilege escalation and persistence. SCMKit was built in a modular approach, so that new modules and SCM systems can be added in the future by the information security community.
+
+</details>
+
 
 ---
 
