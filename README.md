@@ -19,20 +19,20 @@ Tools are grouped by:
 ## 🌍 Locations
 
 ### Asia
-- [2015](blackhat_tools/Asia/2015/README.md)
-- [2016](blackhat_tools/Asia/2016/README.md)
-- [2017](blackhat_tools/Asia/2017/README.md)
-- [2018](blackhat_tools/Asia/2018/README.md)
-- [2019](blackhat_tools/Asia/2019/README.md)
-- [2020](blackhat_tools/Asia/2020/README.md)
-- [2021](blackhat_tools/Asia/2021/README.md)
-- [2022](blackhat_tools/Asia/2022/README.md)
-- [2023](blackhat_tools/Asia/2023/README.md)
-- [2024](blackhat_tools/Asia/2024/README.md)
+- [2015](tools/regions/Asia/2015/README.md)
+- [2016](tools/regions/Asia/2016/README.md)
+- [2017](tools/regions/Asia/2017/README.md)
+- [2018](tools/regions/Asia/2018/README.md)
+- [2019](tools/regions/Asia/2019/README.md)
+- [2020](tools/regions/Asia/2020/README.md)
+- [2021](tools/regions/Asia/2021/README.md)
+- [2022](tools/regions/Asia/2022/README.md)
+- [2023](tools/regions/Asia/2023/README.md)
+- [2024](tools/regions/Asia/2024/README.md)
 
 ### Canada
-- [2023](blackhat_tools/Canada/2023/README.md)
-- [2024](blackhat_tools/Canada/2024/README.md)
+- [2023](tools/regions/Canada/2023/README.md)
+- [2024](tools/regions/2024/README.md)
 
 ### Europe
 - [2014](blackhat_tools/Europe/2014/README.md)
