@@ -9,6 +9,7 @@ Red Teaming involves offensive tactics, adversary simulations, lateral movement,
 ## 🔧 Tools List
 
 ### 📅 2025
+
 <details><summary><strong>Automating Red Team Operations in Windows AD with Local LLM and Multi AI Agents</strong></summary>
 
 📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
