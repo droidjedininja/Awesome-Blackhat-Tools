@@ -41,6 +41,13 @@ An introductory blog post can be found [here](https://medium.com/@Ne0nd0g/introd
 
 </details>
 
+<details><summary><strong>ShinoBOT Family</strong> - By Sh1n0g1 </summary>
+
+📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2016-blue)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up)  
+🔗 [GitHub](https://github.com/Sh1n0g1/ShinoBOT)  
+📝 **Description:** ShinoBOT Family is a malware set to test the security solution / security posture of the organization.
+
+</details>
 
 ---
 
@@ -48,7 +55,7 @@ An introductory blog post can be found [here](https://medium.com/@Ne0nd0g/introd
 
 - This list will be updated as more Red Teaming tools are parsed from additional years and locations.
 - All entries are sorted by tool name for clarity.
-- Want to contribute? Open a PR on the [GitHub repository](https://github.com/UCYBERS/setupkali).
+- Want to contribute? Open a PR on the [GitHub repository](https://github.com/UCYBERS/Awesome-BlackHat-Tools).
 
 ---
 
