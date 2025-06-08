@@ -49,7 +49,14 @@ An introductory blog post can be found [here](https://medium.com/@Ne0nd0g/introd
 
 </details>
 
----
+<details><summary><strong>WarBerryPi</strong> - By Sh1n0g1 </summary>
+
+📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2016-blue)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)  
+🔗 [GitHub](https://github.com/secgroundzero/warberry)  
+📝 **Description:** WarBerryPi was built to be used as a hardware implant during red teaming scenarios where we want to obtain as much information as possible in a short period of time with being as stealth as possible. Just find a network port and plug it in. The scripts have been designed in a way that the approach is targeted to avoid noise in the network that could lead to detection and to be as efficient as possible. The WarBerry script is a collection of scanning tools put together to provide that functionality.
+</details>
+
+
 
 ## 📌 Notes
 
