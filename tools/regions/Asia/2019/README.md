@@ -153,181 +153,181 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 </details>
 
-<details><summary><strong>Halcyon IDE: Nmap Script Development IDE</strong></summary>
+  - <details><summary><strong>Halcyon IDE: Nmap Script Development IDE</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Sanoop Thomas](https://img.shields.io/badge/Sanoop%20Thomas-informational)
+    ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Sanoop Thomas](https://img.shields.io/badge/Sanoop%20Thomas-informational)
 
-🔗 **Link:** [Halcyon IDE: Nmap Script Development IDE](https://github.com/s4n7h0/Halcyon-IDE)  
-📝 **Description:** Halcyon IDE lets you quickly and easily develop Nmap scripts for performing advanced scans on applications and infrastructures with a wide range capabilities from recon to exploitation. It is the first IDE released exclusively for Nmap script development. Halcyon IDE is a free and open-sourced project (always will be) released under MIT license to provide an easier development interface for rapidly growing information security community around the world. The project was initially started as an evening free-time "coffee shop" project and has taken a serious step for its developer/contributors to spend dedicated time for its improvements very actively.
+    🔗 **Link:** [Halcyon IDE: Nmap Script Development IDE](https://github.com/s4n7h0/Halcyon-IDE)  
+    📝 **Description:** Halcyon IDE lets you quickly and easily develop Nmap scripts for performing advanced scans on applications and infrastructures with a wide range capabilities from recon to exploitation. It is the first IDE released exclusively for Nmap script development. Halcyon IDE is a free and open-sourced project (always will be) released under MIT license to provide an easier development interface for rapidly growing information security community around the world. The project was initially started as an evening free-time "coffee shop" project and has taken a serious step for its developer/contributors to spend dedicated time for its improvements very actively.
 
 </details>
 
 ---
 ## 🟣 Red Teaming / Embedded
-<details><summary><strong>IoT Hunter: A Framework Tool for Building IoT Threat Intelligence System</strong></summary>
+  - <details><summary><strong>IoT Hunter: A Framework Tool for Building IoT Threat Intelligence System</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Xiaolong Guo](https://img.shields.io/badge/Xiaolong%20Guo-informational) ![Meng Su](https://img.shields.io/badge/Meng%20Su-informational) ![Lei Bi](https://img.shields.io/badge/Lei%20Bi-informational)
+    ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Xiaolong Guo](https://img.shields.io/badge/Xiaolong%20Guo-informational) ![Meng Su](https://img.shields.io/badge/Meng%20Su-informational) ![Lei Bi](https://img.shields.io/badge/Lei%20Bi-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** Tencent IoT Hunter is a framework tool created to quickly build the IoT threat intelligence platform, which is more specifically designed to analyze IOT threats. The tool contains all important modules for IOT threat analysis, including information collection, data extraction, threat data analysis, and intelligence visualization. Intelligence data includes, but is not limited to, static information extraction, dynamic operation information extraction, and third-party network platform information. The goal of this tool is to help security researchers quickly and easily build their own IOT intelligence platform for IOT malware research and threat tracking.
+    🔗 **Link:** Not Available  
+    📝 **Description:** Tencent IoT Hunter is a framework tool created to quickly build the IoT threat intelligence platform, which is more specifically designed to analyze IOT threats. The tool contains all important modules for IOT threat analysis, including information collection, data extraction, threat data analysis, and intelligence visualization. Intelligence data includes, but is not limited to, static information extraction, dynamic operation information extraction, and third-party network platform information. The goal of this tool is to help security researchers quickly and easily build their own IOT intelligence platform for IOT malware research and threat tracking.
 
-Using this framework tool, you can get the malicious information (CNC, Domain, function, etc.) in the IoT sample file very precisely and fine-grained. Compared with the traditional simple string extraction, this extraction method is more accurate and supports the extraction of encrypted information. This malicious information can be directly used to integrate into the IoT malicious information base and threat cloud search services, without the need for analysts to re-confirm, greatly improving the efficiency of malicious information processing.
+    Using this framework tool, you can get the malicious information (CNC, Domain, function, etc.) in the IoT sample file very precisely and fine-grained. Compared with the traditional simple string extraction, this extraction method is more accurate and supports the extraction of encrypted information. This malicious information can be directly used to integrate into the IoT malicious information base and threat cloud search services, without the need for analysts to re-confirm, greatly improving the efficiency of malicious information processing.
 
-Traditional intelligence information extraction tools are often used to extract predefined information. The framework provides a good extension interface, where users can write personalized plugins to expand the scope of information extraction. For the emerging threats, security analysts can quickly integrate analysis experience such as decryption algorithm into the framework, accurately extract malicious intelligence, and reduce invalid redundant information.
+    Traditional intelligence information extraction tools are often used to extract predefined information. The framework provides a good extension interface, where users can write personalized plugins to expand the scope of information extraction. For the emerging threats, security analysts can quickly integrate analysis experience such as decryption algorithm into the framework, accurately extract malicious intelligence, and reduce invalid redundant information.
 
-In the tool demonstration phase, we will demonstrate how to use the entire tool. Including the static information of IOT samples. Take popular IOT threats as examples to show how to precisely extract CNC, weak passwords, and configuration files. We will also show how to develop and integrate the platform plug-ins to extract any specific intelligence information of concern. All of the above data information is imported to the platform, security personnel can be free to carry out data analysis, malware track, threat visualization.
+    In the tool demonstration phase, we will demonstrate how to use the entire tool. Including the static information of IOT samples. Take popular IOT threats as examples to show how to precisely extract CNC, weak passwords, and configuration files. We will also show how to develop and integrate the platform plug-ins to extract any specific intelligence information of concern. All of the above data information is imported to the platform, security personnel can be free to carry out data analysis, malware track, threat visualization.
 
 </details>
 
-<details><summary><strong>VxHunter: A Tool Set for VxWorks Based Embedded Device Analyses</strong></summary>
+  - <details><summary><strong>VxHunter: A Tool Set for VxWorks Based Embedded Device Analyses</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Wenzhe Zhu](https://img.shields.io/badge/Wenzhe%20Zhu-informational) ![Ruikai Liu](https://img.shields.io/badge/Ruikai%20Liu-informational) ![Jiashui Wang](https://img.shields.io/badge/Jiashui%20Wang-informational) ![Yu Zhou](https://img.shields.io/badge/Yu%20Zhou-informational)
+    ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Wenzhe Zhu](https://img.shields.io/badge/Wenzhe%20Zhu-informational) ![Ruikai Liu](https://img.shields.io/badge/Ruikai%20Liu-informational) ![Jiashui Wang](https://img.shields.io/badge/Jiashui%20Wang-informational) ![Yu Zhou](https://img.shields.io/badge/Yu%20Zhou-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** VxWorks is the industry's leading real-time operating system. It has been widely used in various industry scenarios, which require real-time, deterministic performance and, in many cases, safety and security certifications such as the NASA's Insight Spacecraft. There was lot's of research on Linux based Router and camera, rarely seen research of VxWorks based device.
+    🔗 **Link:** Not Available  
+    📝 **Description:** VxWorks is the industry's leading real-time operating system. It has been widely used in various industry scenarios, which require real-time, deterministic performance and, in many cases, safety and security certifications such as the NASA's Insight Spacecraft. There was lot's of research on Linux based Router and camera, rarely seen research of VxWorks based device.
 
-Most of VxWorks based IoT devices on the market didn't contain any built-in debugger like WDB(VxWorks WDB Debug Agent) or command line debugger. Without debugger it's almost impossible to analyze the root cause of vulnerability or exploit vulnerabilities.
+    Most of VxWorks based IoT devices on the market didn't contain any built-in debugger like WDB(VxWorks WDB Debug Agent) or command line debugger. Without debugger it's almost impossible to analyze the root cause of vulnerability or exploit vulnerabilities.
 
-VxHunter contains an firmware analyze tool and an serial debugger tool. The firmware analysis tool is an IDA plugin which can automatically analyze and rebase firmware to correct loading address, fix function name from symbol table, etc. The serial debugger tool is designed for the target which didn't have built-in debugger like WDB. With VxHunter's help, we successfully analyzed and exploited the CVE-2018-19528 vulnerability.
+    VxHunter contains an firmware analyze tool and an serial debugger tool. The firmware analysis tool is an IDA plugin which can automatically analyze and rebase firmware to correct loading address, fix function name from symbol table, etc. The serial debugger tool is designed for the target which didn't have built-in debugger like WDB. With VxHunter's help, we successfully analyzed and exploited the CVE-2018-19528 vulnerability.
 
 </details>
 
 ---
 ## 🔍 OSINT
-<details><summary><strong>Maltego: FullContact</strong></summary>
+  - <details><summary><strong>Maltego: FullContact</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Christian Heinrich](https://img.shields.io/badge/Christian%20Heinrich-informational)
+    ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Christian Heinrich](https://img.shields.io/badge/Christian%20Heinrich-informational)
 
-🔗 **Link:** [Maltego: FullContact](https://github.com/cmlh/Maltego-FullContact/blob/master/Transform_Hub.xml)  
-📝 **Description:** FullContact allows you to search on an e-mail address, Twitter username, location, name, company, and alias or verify an e-mail address.
+    🔗 **Link:** [Maltego: FullContact](https://github.com/cmlh/Maltego-FullContact/blob/master/Transform_Hub.xml)  
+    📝 **Description:** FullContact allows you to search on an e-mail address, Twitter username, location, name, company, and alias or verify an e-mail address.
 
-Maltego is a link analysis application of technical infrastructure and/or social media networks from disparate sources of Open Source INTelligence (OSINT). Maltego is listed on the Top 10 Security Tools for Kali Linux by Network World and Top 125 Network Security Tools by the Nmap Project.
+    Maltego is a link analysis application of technical infrastructure and/or social media networks from disparate sources of Open Source INTelligence (OSINT).   Maltego is listed on the Top 10 Security Tools for Kali Linux by Network World and Top 125 Network Security Tools by the Nmap Project.
 
-The integration of FullContact with Maltego links the input to it's e-mail address, Twitter username, location, name, company and alias in an easy to understand graph format that can be enriched with other sources of data.
-
-</details>
-
-<details><summary><strong>RTS: Real Time Scrapper</strong></summary>
-
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Naveen Rudrappa](https://img.shields.io/badge/Naveen%20Rudrappa-informational)
-
-🔗 **Link:** [RTS: Real Time Scrapper](https://github.com/NaveenRudra/RTTM)  
-📝 **Description:** RTS (Realtime scrapper) is a tool developed to scrap all pasties, github, reddit, etc. in real time to identify occurrence of search terms configured. Upon match, an email will be triggered. Thus, allowing a company to react in case of leakage of code, any hacks tweeted, etc. and harden themselves against an attack before it goes viral.
+    The integration of FullContact with Maltego links the input to it's e-mail address, Twitter username, location, name, company and alias in an easy to understand graph format that can be enriched with other sources of data.
 
 </details>
 
-<details><summary><strong>Squatm3gator: 360° Cybersquatting</strong></summary>
+  - <details><summary><strong>RTS: Real Time Scrapper</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Davide Cioccia](https://img.shields.io/badge/Davide%20Cioccia-informational) ![Stefan Petrushevski](https://img.shields.io/badge/Stefan%20Petrushevski-informational)
+    ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Naveen Rudrappa](https://img.shields.io/badge/Naveen%20Rudrappa-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** Squatm3gator (presented at BHEU 2018) is a python tool designed to enumerate available and not available domains generated by modifying the original domain name through different techniques:
+    🔗 **Link:** [RTS: Real Time Scrapper](https://github.com/NaveenRudra/RTTM)  
+    📝 **Description:** RTS (Realtime scrapper) is a tool developed to scrap all pasties, github, reddit, etc. in real time to identify occurrence of search terms configured. Upon match, an email will be triggered. Thus, allowing a company to react in case of leakage of code, any hacks tweeted, etc. and harden themselves against an attack before it goes viral.
 
-- Substitution attack
-- Flipping attack
-- Duplicate attack
-- Homoglyph attack
+</details>
 
-Squatm3gator is based on Squatm3 and will help penetration testers to identify domains to be used in phishing attack simulations and security analysts to prevent effective phishing attacks.
+  - <details><summary><strong>Squatm3gator: 360° Cybersquatting</strong></summary>
 
-The new release will contains the following improvements:
+    ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Davide Cioccia](https://img.shields.io/badge/Davide%20Cioccia-informational) ![Stefan Petrushevski](https://img.shields.io/badge/Stefan%20Petrushevski-informational)
 
-- for each domain to retrieve whois information
-- highlights soon-to-expire domains
-- first release of automatic phishing website detection
+    🔗 **Link:** Not Available  
+    📝 **Description:** Squatm3gator (presented at BHEU 2018) is a python tool designed to enumerate available and not available domains generated by modifying the original domain name through different techniques:
 
-Presentation Slides: http://i.blackhat.com/asia-19/Arsenal/BH-Asia-2019_Arsenal.pptx
+    - Substitution attack
+    - Flipping attack
+    - Duplicate attack
+    - Homoglyph attack
+
+    Squatm3gator is based on Squatm3 and will help penetration testers to identify domains to be used in phishing attack simulations and security analysts to prevent effective phishing attacks.
+
+    The new release will contains the following improvements:
+
+    - for each domain to retrieve whois information
+    - highlights soon-to-expire domains
+    - first release of automatic phishing website detection
+
+    Presentation Slides: http://i.blackhat.com/asia-19/Arsenal/BH-Asia-2019_Arsenal.pptx
 
 </details>
 
 ---
 ## 🔵 Blue Team & Detection
-<details><summary><strong>MLsploit: A Cloud-Based Framework for Adversarial Machine Learning Research</strong></summary>
+  - <details><summary><strong>MLsploit: A Cloud-Based Framework for Adversarial Machine Learning Research</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Evan Yang](https://img.shields.io/badge/Evan%20Yang-informational) ![Li Chen](https://img.shields.io/badge/Li%20Chen-informational) ![Nilaksh Das](https://img.shields.io/badge/Nilaksh%20Das-informational)
+    ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Evan Yang](https://img.shields.io/badge/Evan%20Yang-informational) ![Li Chen](https://img.shields.io/badge/Li%20Chen-informational) ![Nilaksh Das](https://img.shields.io/badge/Nilaksh%20Das-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** None
-
-</details>
-
-<details><summary><strong>NFC Scrambler</strong></summary>
-
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Davis Zheng](https://img.shields.io/badge/Davis%20Zheng-informational) ![Ashley Tan](https://img.shields.io/badge/Ashley%20Tan-informational)
-
-🔗 **Link:** [NFC Scrambler](https://gist.github.com/duhaime/b2226d787214d7780f446b3e081cbf10)  
-📝 **Description:** NFC Scrambler is an android app that emulates a rfid card to prevent nfc skimming. Rfid cards are used nearly everywhere, either in the forms of identification cards or credit cards. RFID Skimming statistics reveal that every two seconds a new case of identity theft is reported in the United States; however, not everyone can afford a rfid blocker card or wallet. Thus this app will help them block rfid skimming for free.
+    🔗 **Link:** Not Available  
+    📝 **Description:** None
 
 </details>
 
-<details><summary><strong>Unprotect Project: Unprotect Malware for the Mass</strong></summary>
+  - <details><summary><strong>NFC Scrambler</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Thomas Roccia](https://img.shields.io/badge/Thomas%20Roccia-informational)
+    ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Davis Zheng](https://img.shields.io/badge/Davis%20Zheng-informational) ![Ashley Tan](https://img.shields.io/badge/Ashley%20Tan-informational)
 
-🔗 **Link:** [Unprotect Project: Unprotect Malware for the Mass](https://github.com/Spacial/awesome-csirt/blob/master/README.md?plain=1&eCsjs5f=Vat78MGQ)  
-📝 **Description:** To perform malicious actions, attackers create malware; however, they cannot achieve their goals unless their attempts remain undetected. There is a cat and-mouse game between defenders and attackers, which includes attackers monitoring the operations of security technologies and practices.
-
-The Unprotect Project is an open-source project that aims to propose a complete classification about Evasion Techniques to help to understand and analyze a malware. This project is dedicated to Windows PE malware but will be extended to other platforms in the future.
-
-Presentation Slides: https://drive.google.com/file/d/1koZ5emW2vu9o3gvWdaWZx_mz90bD3rSH/view
+    🔗 **Link:** [NFC Scrambler](https://gist.github.com/duhaime/b2226d787214d7780f446b3e081cbf10)  
+    📝 **Description:** NFC Scrambler is an android app that emulates a rfid card to prevent nfc skimming. Rfid cards are used nearly everywhere, either in the forms of identification cards or credit cards. RFID Skimming statistics reveal that every two seconds a new case of identity theft is reported in the United States; however, not everyone can afford a rfid blocker card or wallet. Thus this app will help them block rfid skimming for free.
 
 </details>
 
-<details><summary><strong>VoIP Wireshark Attack-Defense Toolkit</strong></summary>
+  - <details><summary><strong>Unprotect Project: Unprotect Malware for the Mass</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Nishant Sharma](https://img.shields.io/badge/Nishant%20Sharma-informational) ![Ashish Bhangale](https://img.shields.io/badge/Ashish%20Bhangale-informational) ![Jeswin Mathai](https://img.shields.io/badge/Jeswin%20Mathai-informational)
+    ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Thomas Roccia](https://img.shields.io/badge/Thomas%20Roccia-informational)
 
-🔗 **Link:** [VoIP Wireshark Attack-Defense Toolkit](https://github.com/pentesteracademy/voipshark)  
-📝 **Description:** VoIP Wireshark Attack-Defense Toolkit is a collection of Wireshark plugins which enables a pentester to analyze VoIP traffic. The toolkit can provide summary of VoIP traffic, automatically decrypt VoIP calls wherever possible, export the call audio to popular formats, detect attacks/misconfigurations, and highlight the DTMF/SMS interactions. This eliminates the need for a separate software/framework to analyze VoIP traffic. The plugins are written in Lua and are easy to add to Wireshark. And, the toolkit, just like Wireshark, is platform independent.
+    🔗 **Link:** [Unprotect Project: Unprotect Malware for the Mass](https://github.com/Spacial/awesome-csirt/blob/master/README.md?plain=1&eCsjs5f=Vat78MGQ)  
+    📝 **Description:** To perform malicious actions, attackers create malware; however, they cannot achieve their goals unless their attempts remain undetected. There is a cat and-mouse game between defenders and attackers, which includes attackers monitoring the operations of security technologies and practices.
+
+    The Unprotect Project is an open-source project that aims to propose a complete classification about Evasion Techniques to help to understand and analyze a malware. This project is dedicated to Windows PE malware but will be extended to other platforms in the future.
+
+    Presentation Slides: https://drive.google.com/file/d/1koZ5emW2vu9o3gvWdaWZx_mz90bD3rSH/view
 
 </details>
 
-<details><summary><strong>Weapons of Office Destruction: Prevention with Machine Learning</strong></summary>
+  - <details><summary><strong>VoIP Wireshark Attack-Defense Toolkit</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Jason Zhang](https://img.shields.io/badge/Jason%20Zhang-informational) ![Felipe Ducau](https://img.shields.io/badge/Felipe%20Ducau-informational)
+    ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Nishant Sharma](https://img.shields.io/badge/Nishant%20Sharma-informational) ![Ashish Bhangale](https://img.shields.io/badge/Ashish%20Bhangale-informational) ![Jeswin Mathai](https://img.shields.io/badge/Jeswin%20Mathai-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** The broad-brush popularity of Microsoft (MS) Office documents led them to become one of the main cyber-attacking vectors to spread malware via email attachments or web downloads. The first major outbreak of its kind is the notorious macro-based malware "Melissa" during the turn of last century and this century. Since 2014 we started to see rising weaponized Office documents, particularly visual basic application (VBA) macro-based attacks (banking Trojan like "Dridex" or ransomware such as "Locky"). According to a Sophos report in 2017, over 80% of document-based malware were delivered via MS Word or Excel files. Even though these attacks are not new in nature, the increasing volume and complexity of the attacks impose huge challenges to traditional signature-based anti-virus (AV) products.
+    🔗 **Link:** [VoIP Wireshark Attack-Defense Toolkit](https://github.com/pentesteracademy/voipshark)  
+    📝 **Description:** VoIP Wireshark Attack-Defense Toolkit is a collection of Wireshark plugins which enables a pentester to analyze VoIP traffic. The toolkit   can provide summary of VoIP traffic, automatically decrypt VoIP calls wherever possible, export the call audio to popular formats, detect attacks/misconfigurations, and highlight the DTMF/SMS interactions. This eliminates the need for a separate software/framework to analyze VoIP traffic. The plugins are written in Lua and are easy to add to Wireshark. And, the toolkit, just like Wireshark, is platform independent.
 
-As a countermeasure, AV companies have spent an enormous amount of effort creating heuristic rules over decades for signature-based detection. To better leverage the rules already used in traditional AV solutions, we propose to combine them statistically using a simple random forest-based machine learning (ML) classifier. In this demonstration, a comprehensive list of over 3000 existing heuristic rules is used to train the ML model. The training data feed comprises around 92600 real-world benign and malicious MS Office documents including Word, Excel and PowerPoint file formats. The testing datasets include 17929 malicious files and 12511 benign files collected recently. Evaluation results indicate that the proposed approach exhibits enhanced performance and significantly outperforms eleven well known commercial anti-virus scanners with a much higher true positive rate (TPR) of 98.46% achieved while maintaining a low false positive rate (FPR) of 0.33%. Of the evaluated commercial AV scanners, the best one achieves only a TPR of 87.5%, which is more than 10% lower than the proposed ML model.
+</details>
+
+  - <details><summary><strong>Weapons of Office Destruction: Prevention with Machine Learning</strong></summary>
+
+    ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Jason Zhang](https://img.shields.io/badge/Jason%20Zhang-informational) ![Felipe Ducau](https://img.shields.io/badge/Felipe%20Ducau-informational)
+
+    🔗 **Link:** Not Available  
+    📝 **Description:** The broad-brush popularity of Microsoft (MS) Office documents led them to become one of the main cyber-attacking vectors to spread malware via email attachments or web downloads. The first major outbreak of its kind is the notorious macro-based malware "Melissa" during the turn of last century and this century. Since 2014 we started to see rising weaponized Office documents, particularly visual basic application (VBA) macro-based attacks (banking Trojan like "Dridex" or ransomware such as "Locky"). According to a Sophos report in 2017, over 80% of document-based malware were delivered via MS Word or Excel files. Even though these attacks are not new in nature, the increasing volume and complexity of the attacks impose huge challenges to traditional signature-based anti-virus (AV) products.
+
+    As a countermeasure, AV companies have spent an enormous amount of effort creating heuristic rules over decades for signature-based detection. To better leverage the rules already used in traditional AV solutions, we propose to combine them statistically using a simple random forest-based machine learning (ML) classifier. In this demonstration, a comprehensive list of over 3000 existing heuristic rules is used to train the ML model. The training data feed comprises around 92600 real-world benign and malicious MS Office documents including Word, Excel and PowerPoint file formats. The testing datasets include 17929 malicious files and 12511 benign files collected recently. Evaluation results indicate that the proposed approach exhibits enhanced performance and significantly outperforms eleven well known commercial anti-virus scanners with a much higher true positive rate (TPR) of 98.46% achieved while maintaining a low false positive rate (FPR) of 0.33%. Of the evaluated commercial AV scanners, the best one achieves only a TPR of 87.5%, which is more than 10% lower than the proposed ML model.
 
 </details>
 
 ---
 ## 🌐 Web/AppSec or Red Teaming
-<details><summary><strong>npm-scan: An Extensible, Heuristic-Based Vulnerability Scanning Tool for Installed NPM Packages</strong></summary>
+  - <details><summary><strong>npm-scan: An Extensible, Heuristic-Based Vulnerability Scanning Tool for Installed NPM Packages</strong></summary>
 
-![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Eugene Lim](https://img.shields.io/badge/Eugene%20Lim-informational) ![Bernard Lim](https://img.shields.io/badge/Bernard%20Lim-informational) ![Matthew Wong](https://img.shields.io/badge/Matthew%20Wong-informational)
+    ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Eugene Lim](https://img.shields.io/badge/Eugene%20Lim-informational) ![Bernard Lim](https://img.shields.io/badge/Bernard%20Lim-informational) ![Matthew Wong](https://img.shields.io/badge/Matthew%20Wong-informational)
 
-🔗 **Link:** [npm-scan: An Extensible, Heuristic-Based Vulnerability Scanning Tool for Installed NPM Packages](https://github.com/davidar/dblp.yaml/blob/master/journals/aes.bib)  
-📝 **Description:** An extensible, heuristic-based vulnerability scanning tool for installed npm packages.
+    🔗 **Link:** [npm-scan: An Extensible, Heuristic-Based Vulnerability Scanning Tool for Installed NPM Packages](https://github.com/davidar/dblp.yaml/blob/master/journals/aes.bib)  
+    📝 **Description:** An extensible, heuristic-based vulnerability scanning tool for installed npm packages.
 
-Active heuristics-based scanning: quick and easy for anyone to use
+    Active heuristics-based scanning: quick and easy for anyone to use
 
-Improves/enforces quality of open source coding
+    Improves/enforces quality of open source coding
 
 </details>
 
-<details><summary><strong>pytm: A Pythonic Framework for Threat Modeling</strong></summary>
+  - <details><summary><strong>pytm: A Pythonic Framework for Threat Modeling</strong></summary>
 
-![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Rohit Shambhuni](https://img.shields.io/badge/Rohit%20Shambhuni-informational) ![Izar Tarandach](https://img.shields.io/badge/Izar%20Tarandach-informational)
+    ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Rohit Shambhuni](https://img.shields.io/badge/Rohit%20Shambhuni-informational) ![Izar Tarandach](https://img.shields.io/badge/Izar%20Tarandach-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** pytm is a Pythonic framework for threat modeling. Developers can define their system in Python code as a collection of objects and annotate them with properties. Security practitioners can add threats to the "Threats" object (see https://github.com/izar/pytm/blob/master/pytm/threats.py). The logic lives in the "condition" of the "Threats" object, where members of target can be logically evaluated. If the "condition" returns a "True", that means the rule found a potential threat. More details at https://github.com/izar/pytm
+    🔗 **Link:** Not Available  
+    📝 **Description:** pytm is a Pythonic framework for threat modeling. Developers can define their system in Python code as a collection of objects and annotate them with properties. Security practitioners can add threats to the "Threats" object (see https://github.com/izar/pytm/blob/master/pytm/threats.py). The logic lives in the "condition" of the "Threats" object, where members of target can be logically evaluated. If the "condition" returns a "True", that means the rule found a potential threat. More details at https://github.com/izar/pytm
 
-Usage:
-tm.py [-h] [--debug] [--resolve] [--dfd] [--report] [--all]
-[--exclude EXCLUDE] [--seq]
+    Usage:
+    tm.py [-h] [--debug] [--resolve] [--dfd] [--report] [--all]
+    [--exclude EXCLUDE] [--seq]
 
-optional arguments:
--h, --help show this help message and exit
---debug print debug messages
---resolve identify threats
---dfd output DFD (default)
---report output report
---all output everything
---exclude EXCLUDE specify threat IDs to be ignored
---seq output sequential diagram
+    optional arguments:
+    -h, --help show this help message and exit
+    --debug print debug messages
+    --resolve identify threats
+    --dfd output DFD (default)
+    --report output report
+    --all output everything
+    --exclude EXCLUDE specify threat IDs to be ignored
+    --seq output sequential diagram
 
 </details>
 
