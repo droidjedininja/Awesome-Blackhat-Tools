@@ -4,14 +4,14 @@
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
 ## 📚 Table of Contents
-- [🌐 Web/AppSec](#🌐-webappsec)
-- [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
-- [📱 Mobile Security](#📱-mobile-security)
-- [🔍 OSINT](#🔍-osint)
-- [🔴 Red Teaming](#🔴-red-teaming)
-- [🔴 Red Teaming / AppSec](#🔴-red-teaming-appsec)
-- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
-- [🟣 Red Teaming / Embedded](#🟣-red-teaming-embedded)
+- [🌐 Web/AppSec](#-webappsec)
+- [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming)
+- [📱 Mobile Security](#-mobile-security)
+- [🔍 OSINT](#-osint)
+- [🔴 Red Teaming](#-red-teaming)
+- [🔴 Red Teaming / AppSec](#-red-teaming--appsec)
+- [🔵 Blue Team & Detection](#-blue-team--detection)
+- [🟣 Red Teaming / Embedded](#-red-teaming--embedded)
 ---
 ## 🔵 Blue Team & Detection
 <details><summary><strong>BTA: An Open-Source Active Directory Security Audit Framework</strong></summary>
