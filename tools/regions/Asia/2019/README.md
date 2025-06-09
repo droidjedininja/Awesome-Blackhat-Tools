@@ -5,14 +5,14 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ## 📚 Table of Contents
 - [Others](#others)
-- [🌐 Web/AppSec](#🌐-webappsec)
-- [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
-- [🔍 OSINT](#🔍-osint)
+- [🌐 Web/AppSec](#-webappsec)
+- [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming)
+- [🔍 OSINT](#-osint)
 - [🔴 Red Teaming](#-red-teaming)
-- [🔴 Red Teaming / AppSec](#🔴-red-teaming-appsec)
-- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
-- [🟣 Red Teaming / Embedded](#🟣-red-teaming-embedded)
-- [🧠 Reverse Engineering](#🧠-reverse-engineering)
+- [🔴 Red Teaming / AppSec](#-red-teaming-appsec)
+- [🔵 Blue Team & Detection](#-blue-team-detection)
+- [🟣 Red Teaming / Embedded](#-red-teaming-embedded)
+- [🧠 Reverse Engineering](#-reverse-engineering)
 ---
 ## 🔴 Red Teaming
 <details><summary><strong>ACSploit: Exploit Algorithmic Complexity Vulnerabilities</strong></summary>
