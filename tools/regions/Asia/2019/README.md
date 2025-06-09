@@ -9,7 +9,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 - [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming)
 - [🔍 OSINT](#-osint)
 - [🔴 Red Teaming](#-red-teaming)
-- [🔴 Red Teaming / AppSec](#-red-teaming-appsec)
+- [🔴 Red Teaming / AppSec](#-red-teaming--appsec)
 - [🔵 Blue Team & Detection](#-blue-team-detection)
 - [🟣 Red Teaming / Embedded](#-red-teaming-embedded)
 - [🧠 Reverse Engineering](#-reverse-engineering)
