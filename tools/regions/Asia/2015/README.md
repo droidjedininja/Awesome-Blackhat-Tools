@@ -129,32 +129,32 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ---
 ## 🌐 Web/AppSec
-<details><summary><strong>OWASP Xenotix XSS Exploit Framework (March 26)</strong></summary>
+  - <details><summary><strong>OWASP Xenotix XSS Exploit Framework (March 26)</strong></summary>
 
-![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Ajin Abraham](https://img.shields.io/badge/Ajin%20Abraham-informational)
+    ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Ajin Abraham](https://img.shields.io/badge/Ajin%20Abraham-informational)
 
-🔗 **Link:** [OWASP Xenotix XSS Exploit Framework (March 26)](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework/blob/master/app.config)  
-📝 **Description:** OWASP Xenotix XSS Exploit Framework is an advanced Cross-Site Scripting (XSS) vulnerability detection and exploitation framework. Xenotix provides zero false positive XSS detection by performing the scan within the browser engines where in real world, payloads get reflected. Xenotix scanner module is incorporated with three intelligent fuzzers to reduce the scan time and produce better results. If you really don't like the tool logic, then leverage the power of Xenotix API to make the tool work like you wanted it to work. It is claimed to have the world's 2nd largest XSS payloads of about 4800+ distinctive XSS payloads. It is incorporated with a feature-rich information gathering module for target reconnaissance. The exploit framework includes real-world offensive XSS exploitation modules for penetration testing and proof-of-concept creation. Say no to alert pop-ups in PoC. Pen-testers can now create appealing proof-of-concepts within a few clicks.
-
-</details>
-
-<details><summary><strong>OWASP Xenotix XSS Exploit Framework (March 27)</strong></summary>
-
-![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Ajin Abraham](https://img.shields.io/badge/Ajin%20Abraham-informational)
-
-🔗 **Link:** [OWASP Xenotix XSS Exploit Framework (March 27)](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework/blob/master/app.config)  
-📝 **Description:** OWASP Xenotix XSS Exploit Framework is an advanced Cross-Site Scripting (XSS) vulnerability detection and exploitation framework. Xenotix provides zero false positive XSS detection by performing the scan within the browser engines where in real world, payloads get reflected. Xenotix scanner module is incorporated with three intelligent fuzzers to reduce the scan time and produce better results. If you really don't like the tool logic, then leverage the power of Xenotix API to make the tool work like you wanted it to work. It is claimed to have the world's 2nd largest XSS payloads of about 4800+ distinctive XSS payloads. It is incorporated with a feature-rich information gathering module for target reconnaissance. The exploit framework includes real-world offensive XSS exploitation modules for penetration testing and proof-of-concept creation. Say no to alert pop-ups in PoC. Pen-testers can now create appealing proof-of-concepts within a few clicks.
+    🔗 **Link:** [OWASP Xenotix XSS Exploit Framework (March 26)](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework/blob/master/app.config)  
+    📝 **Description:** OWASP Xenotix XSS Exploit Framework is an advanced Cross-Site Scripting (XSS) vulnerability detection and exploitation framework. Xenotix provides zero false positive XSS detection by performing the scan within the browser engines where in real world, payloads get reflected. Xenotix scanner module is incorporated with three intelligent fuzzers to reduce the scan time and produce better results. If you really don't like the tool logic, then leverage the power of Xenotix API to make the tool work like you wanted it to work. It is claimed to have the world's 2nd largest XSS payloads of about 4800+ distinctive XSS payloads. It is incorporated with a feature-rich information gathering module for target reconnaissance. The exploit framework includes real-world offensive XSS exploitation modules for penetration testing and proof-of-concept creation. Say no to alert pop-ups in PoC. Pen-testers can now create appealing proof-of-concepts within a few clicks.
 
 </details>
 
----
+  - <details><summary><strong>OWASP Xenotix XSS Exploit Framework (March 27)</strong></summary>
+
+    ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Ajin Abraham](https://img.shields.io/badge/Ajin%20Abraham-informational)
+
+    🔗 **Link:** [OWASP Xenotix XSS Exploit Framework (March 27)](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework/blob/master/app.config)  
+    📝 **Description:** OWASP Xenotix XSS Exploit Framework is an advanced Cross-Site Scripting (XSS) vulnerability detection and exploitation framework. Xenotix provides zero false positive XSS detection by performing the scan within the browser engines where in real world, payloads get reflected. Xenotix scanner module is incorporated with three intelligent fuzzers to reduce the scan time and produce better results. If you really don't like the tool logic, then leverage the power of Xenotix API to make the tool work like you wanted it to work. It is claimed to have the world's 2nd largest XSS payloads of about 4800+ distinctive XSS payloads. It is incorporated with a feature-rich information gathering module for target reconnaissance. The exploit framework includes real-world offensive XSS exploitation modules for penetration testing and proof-of-concept creation. Say no to alert pop-ups in PoC. Pen-testers can now create appealing proof-of-concepts within a few clicks.
+
+</details>
+
+
 ## 📱 Mobile Security
-<details><summary><strong>YSO Mobile Security Framework</strong></summary>
+  - <details><summary><strong>YSO Mobile Security Framework</strong></summary>
 
-![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![Ajin Abraham](https://img.shields.io/badge/Ajin%20Abraham-informational)
+    ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![Ajin Abraham](https://img.shields.io/badge/Ajin%20Abraham-informational)
 
-🔗 **Link:** [YSO Mobile Security Framework](https://github.com/torque59/YSO-Mobile-Security-Framework)  
-📝 **Description:** YSO Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static and dynamic analysis. We've been depending on multiple tools to carry out reversing, decoding, debugging, code review, and pen-test and this process requires a lot of effort and time. YSO Mobile Security Framework can be used for effective and fast security analysis of Android APK/Android app source code/iOS app source code.The static analyzer is able to perform automated code review, detect insecure permissions and configurations, and detect insecure code like ssl overriding, ssl bypass, weak crypto, obfuscated codes, permission bypasses, hardcoded secrets, improper usage of dangerous APIs, leakage of sensitive/PII information, and insecure file storage. The dynamic analyzer runs the application in a VM and detects the issues at run time. Further analysis is done on the captured network packets, decrypted HTTPS traffic, application dumps, logs, error or crash reports, debug information, stack trace, and the application assets like files, preferences, and databases. This framework is highly scalable that you can add your custom rules with ease. We will be extending this framework to support other mobile platforms like Tizen, Windows phone etc. in future. A quick and clean report can be generated at the end of the tests.
+    🔗 **Link:** [YSO Mobile Security Framework](https://github.com/torque59/YSO-Mobile-Security-Framework)  
+    📝 **Description:** YSO Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static and dynamic analysis. We've been depending on multiple tools to carry out reversing, decoding, debugging, code review, and pen-test and this process requires a lot of effort and time. YSO Mobile Security Framework can be used for effective and fast security analysis of Android APK/Android app source code/iOS app source code.The static analyzer is able to perform automated code review, detect insecure permissions and configurations, and detect insecure code like ssl overriding, ssl bypass, weak crypto, obfuscated codes, permission bypasses, hardcoded secrets, improper usage of dangerous APIs, leakage of sensitive/PII information, and insecure file storage. The dynamic analyzer runs the application in a VM and detects the issues at run time. Further analysis is done on the captured network packets, decrypted HTTPS traffic, application dumps, logs, error or crash reports, debug information, stack trace, and the application assets like files, preferences, and databases. This framework is highly scalable that you can add your custom rules with ease. We will be extending this framework to support other mobile platforms like Tizen, Windows phone etc. in future. A quick and clean report can be generated at the end of the tests.
 
 </details>
 
