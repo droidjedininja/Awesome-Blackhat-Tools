@@ -4,12 +4,12 @@
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
 ## 📚 Table of Contents
-- [🌐 Web/AppSec](#🌐-webappsec)
-- [📱 Mobile Security](#📱-mobile-security)
-- [🔴 Red Teaming](#🔴-red-teaming)
-- [🔴 Red Teaming / AppSec](#🔴-red-teaming-appsec)
-- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
-- [🟣 Red Teaming / Embedded](#🟣-red-teaming-embedded)
+- [🌐 Web/AppSec](#-webappsec)
+- [📱 Mobile Security](#-mobile-security)
+- [🔴 Red Teaming](#-red-teaming)
+- [🔴 Red Teaming / AppSec](#-red-teaming--appsec)
+- [🔵 Blue Team & Detection](#-blue-team--detection)
+- [🟣 Red Teaming / Embedded](#-red-teaming--embedded)
 ---
 ## 🔴 Red Teaming
 <details><summary><strong>CapTipper (March 26)</strong></summary>
