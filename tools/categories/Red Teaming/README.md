@@ -8,57 +8,57 @@ Red Teaming involves offensive tactics, adversary simulations, lateral movement,
 
 ## 🔧 Tools List
 
-### 📅 2025
+-  ### 📅 2025
 
-<details><summary><strong>Automating Red Team Operations in Windows AD with Local LLM and Multi AI Agents</strong></summary>
+    - <details><summary><strong>Automating Red Team Operations in Windows AD with Local LLM and Multi AI Agents</strong></summary>
 
-📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
+      📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
 
-🔗 [GitHub](https://github.com/daqcri/deeper-lite/blob/master/python/BenchmarkDatasets/DBLP_ACM/ACM.csv)
+      🔗 [GitHub](https://github.com/daqcri/deeper-lite/blob/master/python/BenchmarkDatasets/DBLP_ACM/ACM.csv)
 
-📝 **Description:** Modern Red Team assessments in Windows Active Directory (AD) environments often involve navigating a vast array of machines, accounts, making them highly resource-intensive. To streamline these engagements, I developed a prototype automated penetration testing tool that leverages local Large Language Models (LLMs) and specialized AI Agents. Because AD environments often contain large amounts of confidential data, this solution can operate entirely within a closed environment, mitigating the risk of data leakage. I verified that the system runs effectively on a single PC.
+      📝 **Description:** Modern Red Team assessments in Windows Active Directory (AD) environments often involve navigating a vast array of machines, accounts,          making them highly resource-intensive. To streamline these engagements, I developed a prototype automated penetration testing tool that leverages local            Large Language Models (LLMs) and specialized AI Agents. Because AD environments often contain large amounts of confidential data, this solution can operate        entirely within a closed environment, mitigating the risk of data leakage. I verified that the system runs effectively on a single PC.
 
-A fundamental challenge with local LLMs is that they often lack sufficient domain-specific knowledge, particularly with regard to attacker tools and methodologies. I address this limitation by restricting the set of utilized tools (e.g., Mimikatz, Psexec, PowerView) and designing specialized Agents for each. I also enhance the models' reasoning with Retrieval-Augmented Generation (RAG) pipelines that focus on typical AD attack paths. Each Agent is based on the ReAct model and logs its thought process and executed commands to visualize the flow of reasoning.
+      A fundamental challenge with local LLMs is that they often lack sufficient domain-specific knowledge, particularly with regard to attacker tools and               methodologies. I address this limitation by restricting the set of utilized tools (e.g., Mimikatz, Psexec, PowerView) and designing specialized Agents for         each. I also enhance the models' reasoning with Retrieval-Augmented Generation (RAG) pipelines that focus on typical AD attack paths. Each Agent is based on       the ReAct model and logs its thought process and executed commands to visualize the flow of reasoning.
 
-Beyond the immediate goal of reducing the effort required for Red Team operations, this research also examines a future threat vector. I anticipate that adversaries will soon embed local LLMs into malware, enabling offline attacks on isolated machines—such as web-isolated hosts or local networks. These attacks do not generate network traffic, thereby evading detection by security appliances that monitor outbound traffic. To evaluate the potential efficacy of local AI-driven automation—given that most Windows devices are equipped only with a CPU—this tool will be tested using a model that runs on the CPU.
+      Beyond the immediate goal of reducing the effort required for Red Team operations, this research also examines a future threat vector. I anticipate that           adversaries will soon embed local LLMs into malware, enabling offline attacks on isolated machines—such as web-isolated hosts or local networks. These             attacks do not generate network traffic, thereby evading detection by security appliances that monitor outbound traffic. To evaluate the potential efficacy        of local AI-driven automation—given that most Windows devices are equipped only with a CPU—this tool will be tested using a model that runs on the CPU.
 
-</details>
+     </details>
 
-<details><summary><strong>BOAZ: Development of a Multilayered Evasion Tool and Methodology</strong></summary>
+   - <details><summary><strong>BOAZ: Development of a Multilayered Evasion Tool and Methodology</strong></summary>
 
-📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)
+     📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)
 
-🔗 [GitHub](https://github.com/ICTMCG/Awesome-Machine-Generated-Text/blob/main/README.md)
+     🔗 [GitHub](https://github.com/ICTMCG/Awesome-Machine-Generated-Text/blob/main/README.md)
 
-📝 **Description:** BOAZ (Bypass, Obfuscate, Adapt, Zero-Trust) evasion was inspired by the concept of multi-layered approach which is the evasive version of defence-in-depth first proposed by at BH USA14 [1]. BOAZ was developed to provide greater control over combinations of evasion methods, enabling more granular evaluations against antivirus and EDR. It is designed to bypass both before and during execution detections that span signature, heuristic and behavioural detection techniques [2].
+      📝 **Description:** BOAZ (Bypass, Obfuscate, Adapt, Zero-Trust) evasion was inspired by the concept of multi-layered approach which is the evasive version         of defence-in-depth first proposed by at BH USA14 [1]. BOAZ was developed to provide greater control over combinations of evasion methods, enabling more           granular evaluations against antivirus and EDR. It is designed to bypass both before and during execution detections that span signature, heuristic and            behavioural detection techniques [2].
 
-BOAZ supports both x86/x64 binary (PE) or raw payload as input and output EXE or DLL. It has been tested on separated Window-11 Enterprise, Windows-10 and windows Server 2022 VMs (version: 22H2, 22621.1992) with 14 Desktop AVs and 7 EDRs installed include Windows Defender, Norton, BitDefender, Sophos and ESET. The design of BOAZ evasion is modular, so users can add their own toolset or techniques to the framework. One advantage of this approach is that if a specific technique's signature become known to antivirus, researchers can easily adjust the technique to verify it and either improve or target a new technique to that detection. This process is described as a query-modify-query attack process, where the attacker can improve based on the feedback from black-box engines until their sample is fully undetectable (FUD) [3].
+      BOAZ supports both x86/x64 binary (PE) or raw payload as input and output EXE or DLL. It has been tested on separated Window-11 Enterprise, Windows-10 and         windows Server 2022 VMs (version: 22H2, 22621.1992) with 14 Desktop AVs and 7 EDRs installed include Windows Defender, Norton, BitDefender, Sophos and ESET.       The design of BOAZ evasion is modular, so users can add their own toolset or techniques to the framework. One advantage of this approach is that if a              specific technique's signature become known to antivirus, researchers can easily adjust the technique to verify it and either improve or target a new              technique to that detection. This process is described as a query-modify-query attack process, where the attacker can improve based on the feedback from           black-box engines until their sample is fully undetectable (FUD) [3].
 
-BOAZ is written in C++ and C and uses Python3 as the main linker to integrate all modules. There have been significant improvements implemented since its inception. The new features of the BOAZ evasion tool, set to be released at BH Asia 2025, include two novel process injection primitives, along with newly implemented loaders and behavioural evasion techniques. There will be a major update to the BH USA 2025 version, including some new anti-forensic techniques and more new process injection threadless execution primitives.
+      BOAZ is written in C++ and C and uses Python3 as the main linker to integrate all modules. There have been significant improvements implemented since its          inception. The new features of the BOAZ evasion tool, set to be released at BH Asia 2025, include two novel process injection primitives, along with newly         implemented loaders and behavioural evasion techniques. There will be a major update to the BH USA 2025 version, including some new anti-forensic techniques       and more new process injection threadless execution primitives.
 
-</details>
+      </details>
 
-<details><summary><strong>Crucible C2: Offensive Security Reforged</strong></summary>
+   - <details><summary><strong>Crucible C2: Offensive Security Reforged</strong></summary>
 
-📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
+      📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
 
-🔗 **GitHub:** Not Available  
-📝 **Description:** Crucible is an extensible, multi-user, cross-platform framework designed for post-exploitation, command and control operations, penetration testing, and red teaming.
+      🔗 **GitHub:** Not Available  
+      📝 **Description:** Crucible is an extensible, multi-user, cross-platform framework designed for post-exploitation, command and control operations,                 penetration testing, and red teaming.
 
-It consists of a per-operator client application, a shared teamserver, and supports language-agnostic implants and plugins.
+       It consists of a per-operator client application, a shared teamserver, and supports language-agnostic implants and plugins.
 
-With this release of Crucible, modern extensibility is achieved through in-memory .NET plugins or gRPC-based plugins, enabling remote communication with external applications regardless of language, allowing extensibility that fits both the operator's skill set and needs.
+       With this release of Crucible, modern extensibility is achieved through in-memory .NET plugins or gRPC-based plugins, enabling remote communication with           external applications regardless of language, allowing extensibility that fits both the operator's skill set and needs.
 
-</details>
+        </details>
 
-<details><summary><strong>DeadMatter: Offset Independent Credential Extraction Tool</strong></summary>
+   - <details><summary><strong>DeadMatter: Offset Independent Credential Extraction Tool</strong></summary>
 
-📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
+     📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
 
-🔗 **GitHub:** Not Available  
-📝 **Description:** DeadMatter is a specialized tool written in C#, designed to extract sensitive information such as password hashes of active logon sessions, from memory dumps. It employs carving techniques to retrieve credentials from various file types such as process or full memory dumps, either in raw or minidump format, decompressed hibernation files, virtual machine memory files, or other types of files that may contain logon credentials.
+     🔗 **GitHub:** Not Available  
+      📝 **Description:** DeadMatter is a specialized tool written in C#, designed to extract sensitive information such as password hashes of active logon              sessions, from memory dumps. It employs carving techniques to retrieve credentials from various file types such as process or full memory dumps, either in          raw or minidump format, decompressed hibernation files, virtual machine memory files, or other types of files that may contain logon credentials.
 
-This tool is particularly useful for penetration testers, red teamers, and forensic investigators, as it facilitates the analysis of system security vulnerabilities and aids in digital forensic investigations. DeadMatter can be very useful to pentesters and red teamers during their engagements, since they often have to deal with EDR and AV software detecting and/or blocking their attempts to dump the LSASS process memory in the minidump format. The alternative of dumping and exfiltrating a full memory dump is often not an option. As a result, DeadMatter was created to fill the gap and allow the offensive team to parse the memory dump files directly on the victim machine, in order to extract NTLM hashes on the spot.
+      This tool is particularly useful for penetration testers, red teamers, and forensic investigators, as it facilitates the analysis of system security               vulnerabilities and aids in digital forensic investigations. DeadMatter can be very useful to pentesters and red teamers during their engagements, since           they often have to deal with EDR and AV software detecting and/or blocking their attempts to dump the LSASS process memory in the minidump format. The             alternative of dumping and exfiltrating a full memory dump is often not an option. As a result, DeadMatter was created to fill the gap and allow the               offensive team to parse the memory dump files directly on the victim machine, in order to extract NTLM hashes on the spot.
 
 </details>
 
