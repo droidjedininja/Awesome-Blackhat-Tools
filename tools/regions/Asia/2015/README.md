@@ -1,5 +1,5 @@
 # Asia 2015
----
+
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2015** event held in **Asia**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
@@ -10,68 +10,69 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec)
 - [🔵 Blue Team & Detection](#-blue-team--detection)
 - [🟣 Red Teaming / Embedded](#-red-teaming--embedded)
----
+
 ## 🔴 Red Teaming
-<details><summary><strong>CapTipper (March 26)</strong></summary>
+  - <details><summary><strong>CapTipper (March 26)</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Omri Herscovici](https://img.shields.io/badge/Omri%20Herscovici-informational)
+    ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Omri Herscovici](https://img.shields.io/badge/Omri%20Herscovici-informational)
 
-🔗 **Link:** [CapTipper (March 26)](https://github.com/omriher/CapTipper/blob/master/CapTipper.py)  
-📝 **Description:** CapTipper is a python tool to analyze, explore, and revive HTTP malicious traffic. CapTipper sets up a web server that acts exactly as the server in the PCAP file and contains internal tools, with a powerful interactive console, for analysis and inspection of the hosts, objects, and conversations found.The tool provides the security researcher with easy access to the files and the understanding of the network flow, and is useful when trying to research exploits, pre-conditions, versions, obfuscations, plugins, and shellcodes.Feeding CapTipper with a drive-by traffic capture (e.g. of an exploit kit) displays the user with the REQUEST_URI's that were sent and metadata responses. The user can at this point browse to http://127.0.0.1/[URI] and receive the response back to the browser. In addition, an interactive shell is launched for deeper investigation using various commands such as hosts, hexdump, info, ungzip, body, client, dump, and more.
+    🔗 [github](https://github.com/omriher/CapTipper/blob/master/CapTipper.py)
+    
+    📝 **Description:** CapTipper is a python tool to analyze, explore, and revive HTTP malicious traffic. CapTipper sets up a web server that acts exactly as the     server in the PCAP file and contains internal tools, with a powerful interactive console, for analysis and inspection of the hosts, objects, and conversations     found.The tool provides the security researcher with easy access to the files and the understanding of the network flow, and is useful when trying to research     exploits, pre-conditions, versions, obfuscations, plugins, and shellcodes.Feeding CapTipper with a drive-by traffic capture (e.g. of an exploit kit) displays      the user with the REQUEST_URI's that were sent and metadata responses. The user can at this point browse to http://127.0.0.1/[URI] and receive the response        back to the browser. In addition, an interactive shell is launched for deeper investigation using various commands such as hosts, hexdump, info, ungzip, body,     client, dump, and more.
 
-</details>
+  - </details>
 
-<details><summary><strong>CapTipper (March 27)</strong></summary>
+    <details><summary><strong>CapTipper (March 27)</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Omri Herscovici](https://img.shields.io/badge/Omri%20Herscovici-informational)
+    ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Omri Herscovici](https://img.shields.io/badge/Omri%20Herscovici-informational)
 
-🔗 **Link:** [CapTipper (March 27)](https://github.com/omriher/CapTipper/blob/master/README.txt)  
-📝 **Description:** CapTipper is a python tool to analyze, explore, and revive HTTP malicious traffic. CapTipper sets up a web server that acts exactly as the server in the PCAP file and contains internal tools, with a powerful interactive console, for analysis and inspection of the hosts, objects, and conversations found.The tool provides the security researcher with easy access to the files and the understanding of the network flow, and is useful when trying to research exploits, pre-conditions, versions, obfuscations, plugins, and shellcodes.Feeding CapTipper with a drive-by traffic capture (e.g. of an exploit kit) displays the user with the REQUEST_URI's that were sent and metadata responses. The user can at this point browse to http://127.0.0.1/[URI] and receive the response back to the browser. In addition, an interactive shell is launched for deeper investigation using various commands such as hosts, hexdump, info, ungzip, body, client, dump, and more.
+    🔗 **Link:** [CapTipper (March 27)](https://github.com/omriher/CapTipper/blob/master/README.txt)  
+    📝 **Description:** CapTipper is a python tool to analyze, explore, and revive HTTP malicious traffic. CapTipper sets up a web server that acts exactly as the     server in the PCAP file and contains internal tools, with a powerful interactive console, for analysis and inspection of the hosts, objects, and conversations     found.The tool provides the security researcher with easy access to the files and the understanding of the network flow, and is useful when trying to research     exploits, pre-conditions, versions, obfuscations, plugins, and shellcodes.Feeding CapTipper with a drive-by traffic capture (e.g. of an exploit kit) displays      the user with the REQUEST_URI's that were sent and metadata responses. The user can at this point browse to http://127.0.0.1/[URI] and receive the response        back to the browser. In addition, an interactive shell is launched for deeper investigation using various commands such as hosts, hexdump, info, ungzip, body,     client, dump, and more.
 
-</details>
+    </details>
 
-<details><summary><strong>MetasploitHelper</strong></summary>
+  - <details><summary><strong>MetasploitHelper</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Keith Lee](https://img.shields.io/badge/Keith%20Lee-informational) ![Michael Gianarakis](https://img.shields.io/badge/Michael%20Gianarakis-informational)
+    ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Keith Lee](https://img.shields.io/badge/Keith%20Lee-informational) ![Michael Gianarakis](https://img.shields.io/badge/Michael%20Gianarakis-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** Metasploit is widely used by penetration-testers during pen-test. They contain a lot of useful exploits that can be used during penetration tests. However, it is a painful task to search for related exploits after running a Nmap scan. It is possible that we could forget to use a potential exploit that could get us a shell on the remote system. There are two main types of exploits in Metasploit that we need to consider: Metasploit modules that target URI and modules that target specific ports. I developed MetasploitHelper so that we can bridge Nmap and Metasploit modules. This tool is meant to save a lot of time looking up exploits during penetration tests.
+    🔗 **Link:** Not Available  
+    📝 **Description:** Metasploit is widely used by penetration-testers during pen-test. They contain a lot of useful exploits that can be used during                 penetration tests. However, it is a painful task to search for related exploits after running a Nmap scan. It is possible that we could forget to use a            potential exploit that could get us a shell on the remote system. There are two main types of exploits in Metasploit that we need to consider: Metasploit          modules that target URI and modules that target specific ports. I developed MetasploitHelper so that we can bridge Nmap and Metasploit modules. This tool is       meant to save a lot of time looking up exploits during penetration tests.
 
-</details>
+    </details>
 
-<details><summary><strong>MITMf - Framework for Man in the Middle Attacks</strong></summary>
+  - <details><summary><strong>MITMf - Framework for Man in the Middle Attacks</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Marcello Salvati](https://img.shields.io/badge/Marcello%20Salvati-informational)
+    ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Marcello Salvati](https://img.shields.io/badge/Marcello%20Salvati-informational)
 
-🔗 **Link:** [MITMf - Framework for Man in the Middle Attacks](https://github.com/byt3bl33d3r/MITMf)  
-📝 **Description:** MITMf combines old and new man-in-the-middle techniques into a framework! Have a cool attack that works in a MITM scenario? Just write a plugin!Currently, the available plugins are:Responder - LLMNR, NBT-NS, and MDNS poisonerSSLstrip+ - Partially bypass HSTSSpoof - Redirect traffic using ARP Spoofing, ICMP Redirects DHCP Spoofing, and modify DNS queriesBeEFAutorun - Autoruns BeEF modules based on clients OS or browser typeAppCachePoison - Perform app cache poison attacksSessionHijacking - Performs session hijacking attacks, and stores cookies in a Firefox profileBrowserProfiler - Attempts to enumerate all browser plugins of connected clientsCacheKill - Kills page caching by modifying headersFilePwn - Backdoor executables being sent over http using bdfactoryInject - Inject arbitrary content into HTML contentJavaPwn - Performs drive-by attacks on clients with out-of-date Java browser pluginsjskeylogger - Injects a JavaScript keylogger into clients webpagesReplace - Replace arbitary content in HTML contentSMBAuth - Evoke SMB challenge-response auth attemptsUpsidedownternet - Flips images 180 degrees
+    🔗 **Link:** [MITMf - Framework for Man in the Middle Attacks](https://github.com/byt3bl33d3r/MITMf)  
+    📝 **Description:** MITMf combines old and new man-in-the-middle techniques into a framework! Have a cool attack that works in a MITM scenario? Just write a       plugin!Currently, the available plugins are:Responder - LLMNR, NBT-NS, and MDNS poisonerSSLstrip+ - Partially bypass HSTSSpoof - Redirect traffic using ARP        Spoofing, ICMP Redirects DHCP Spoofing, and modify DNS queriesBeEFAutorun - Autoruns BeEF modules based on clients OS or browser typeAppCachePoison - Perform      app cache poison attacksSessionHijacking - Performs session hijacking attacks, and stores cookies in a Firefox profileBrowserProfiler - Attempts to enumerate      all browser plugins of connected clientsCacheKill - Kills page caching by modifying headersFilePwn - Backdoor executables being sent over http using               bdfactoryInject - Inject arbitrary content into HTML contentJavaPwn - Performs drive-by attacks on clients with out-of-date Java browser pluginsjskeylogger -      Injects a JavaScript keylogger into clients webpagesReplace - Replace arbitary content in HTML contentSMBAuth - Evoke SMB challenge-response auth                  attemptsUpsidedownternet - Flips images 180 degrees
 
-</details>
+    </details>
 
-<details><summary><strong>Pentoo</strong></summary>
+  - <details><summary><strong>Pentoo</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Anton Bolshakov](https://img.shields.io/badge/Anton%20Bolshakov-informational)
+    ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Anton Bolshakov](https://img.shields.io/badge/Anton%20Bolshakov-informational)
 
-🔗 **Link:** [Pentoo](https://github.com/pentoo/pentoo-overlay/blob/master/net-wireless/dsd/dsd-1.7.0_pre20211213.ebuild)  
-📝 **Description:** Pentoo is Linux distribution designed for penetration testing. Itincludes huge up-to-date and tested collection of tools for web, network, wireless, radio, voice, rce security assessments, and forensics investigations. It can run as a LiveUSB or installed on your permanent media. Based on Gentoo Linux, it is available as an overlay for an existing Gentoo installation and can be customized for your needs. In addition, binary profile with precompiled packages are also available. Pentoo comes hardened by default so both userspace applications and the kernel are protected against all types of memory corruption exploits including zero days.
+    🔗 **Link:** [Pentoo](https://github.com/pentoo/pentoo-overlay/blob/master/net-wireless/dsd/dsd-1.7.0_pre20211213.ebuild)  
+    📝 **Description:** Pentoo is Linux distribution designed for penetration testing. Itincludes huge up-to-date and tested collection of tools for web, network,      wireless, radio, voice, rce security assessments, and forensics investigations. It can run as a LiveUSB or installed on your permanent media. Based on Gentoo      Linux, it is available as an overlay for an existing Gentoo installation and can be customized for your needs. In addition, binary profile with precompiled        packages are also available. Pentoo comes hardened by default so both userspace applications and the kernel are protected against all types of memory              corruption exploits including zero days.
 
-</details>
+     </details>
 
-<details><summary><strong>UYR (March 26)</strong></summary>
+  - <details><summary><strong>UYR (March 26)</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ali Hadi](https://img.shields.io/badge/Ali%20Hadi-informational)
+    ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ali Hadi](https://img.shields.io/badge/Ali%20Hadi-informational)
 
-🔗 **Link:** [UYR (March 26)](https://github.com/TMH-Sec/wordlists/blob/master/ssh-users.txt)  
-📝 **Description:** Under Your Radar (UYR) is a new application layer covert channel. It applies multimedia steganographic techniques to hide a secret message. UYR could also be used for data exfiltration and go totally under the radar and bypass monitoring and detection systems due to its novelty way of communication.UYR in its current version could be used for:Secret CommunicationsExfiltrating Text Files (ASCII)Exfiltrating Other Small Binary FilesThe novelty behind UYR is that in reality you're not transferring any messages or text; you're only transferring a KEY!
+    🔗 **Link:** [UYR (March 26)](https://github.com/TMH-Sec/wordlists/blob/master/ssh-users.txt)  
+    📝 **Description:** Under Your Radar (UYR) is a new application layer covert channel. It applies multimedia steganographic techniques to hide a secret              message. UYR could also be used for data exfiltration and go totally under the radar and bypass monitoring and detection systems due to its novelty way of         communication.UYR in its current version could be used for:Secret CommunicationsExfiltrating Text Files (ASCII)Exfiltrating Other Small Binary FilesThe            novelty behind UYR is that in reality you're not transferring any messages or text; you're only transferring a KEY!
 
-</details>
+     </details>
 
-<details><summary><strong>UYR (March 27)</strong></summary>
+   - <details><summary><strong>UYR (March 27)</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ali Hadi](https://img.shields.io/badge/Ali%20Hadi-informational)
+     ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ali Hadi](https://img.shields.io/badge/Ali%20Hadi-informational)
 
-🔗 **Link:** [UYR (March 27)](https://github.com/TMH-Sec/wordlists/blob/master/ssh-users.txt)  
-📝 **Description:** Under Your Radar (UYR) is a new application layer covert channel. It applies multimedia steganographic techniques to hide a secret message. UYR could also be used for data exfiltration and go totally under the radar and bypass monitoring and detection systems due to its novelty way of communication.UYR in its current version could be used for:Secret CommunicationsExfiltrating Text Files (ASCII)Exfiltrating Other Small Binary FilesThe novelty behind UYR is that in reality you're not transferring any messages or text; you're only transferring a KEY!
+      🔗 **Link:** [UYR (March 27)](https://github.com/TMH-Sec/wordlists/blob/master/ssh-users.txt)  
+      📝 **Description:** Under Your Radar (UYR) is a new application layer covert channel. It applies multimedia steganographic techniques to hide a secret             message. UYR could also be used for data exfiltration and go totally under the radar and bypass monitoring and detection systems due to its novelty way of         communication.UYR in its current version could be used for:Secret CommunicationsExfiltrating Text Files (ASCII)Exfiltrating Other Small Binary FilesThe            novelty behind UYR is that in reality you're not transferring any messages or text; you're only transferring a KEY!
 
 </details>
 
