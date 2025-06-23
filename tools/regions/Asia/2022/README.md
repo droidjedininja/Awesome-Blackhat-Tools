@@ -5,69 +5,69 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ## 📚 Table of Contents
 - [Others](#others)
-- [🌐 Web/AppSec](#🌐-webappsec)
-- [🔴 Red Teaming](#🔴-red-teaming)
-- [🔴 Red Teaming / AppSec](#🔴-red-teaming-appsec)
-- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
-- [🟣 Red Teaming / Embedded](#🟣-red-teaming-embedded)
-- [🧠 Reverse Engineering](#🧠-reverse-engineering)
-- [🧠 Social Engineering / General](#🧠-social-engineering-general)
+- [🌐 Web/AppSec](#-webappsec)
+- [🔴 Red Teaming](#-red-teaming)
+- [🔴 Red Teaming / AppSec](#-red-teaming--appsec)
+- [🔵 Blue Team & Detection](#-blue-team--detection)
+- [🟣 Red Teaming / Embedded](#-red-teaming--embedded)
+- [🧠 Reverse Engineering](#-reverse-engineering)
+- [🧠 Social Engineering / General](#-social-engineering--general)
 ---
 ## 🔴 Red Teaming / AppSec
-<details><summary><strong>AISY: A Framework for Deep Learning-Based Side-Channel Analysis</strong></summary>
+- <details><summary><strong>AISY: A Framework for Deep Learning-Based Side-Channel Analysis</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Stjepan Picek](https://img.shields.io/badge/Stjepan%20Picek-informational)
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Stjepan Picek](https://img.shields.io/badge/Stjepan%20Picek-informational)
 
-🔗 **Link:** [AISY: A Framework for Deep Learning-Based Side-Channel Analysis](https://github.com/AISyLab/AISY_Framework)  
-📝 **Description:** Profiling side-channel attacks (SCA) allow evaluators to verify the worst-case security scenario of their products. Nowadays, deep learning has become the state-of-the-art method for profiling SCA as deep neural networks show the ability to learn side-channel leakages from protected implementations. While deep learning is a powerful technique for security evaluations, it offers numerous possibilities for neural network configurations and optimization techniques. Selecting the best setup for each evaluated product is far from trivial and requires expertise in SCA and deep learning fields. To improve SCA methods, and at the same time to be able to investigate the resistance of the product to more complex attack scenarios, researchers continuously propose new techniques.
-Unfortunately, several obstacles are making the acceptance of such techniques a challenge. Security evaluators from the industry face difficulties following up on new promising methods. What is more, certification bodies also must be aware of new SCA techniques to issue the certifications. Indeed, one of the main issues is the lack of publicly available, easy-to-use frameworks that allow powerful and reliable side-channel analysis. Moreover, due to the absence of the uniformed evaluation/implementation method, the reproducibility of the outcomes is not easy to ensure.
+  🔗 **Link:** [AISY: A Framework for Deep Learning-Based Side-Channel Analysis](https://github.com/AISyLab/AISY_Framework)  
+  📝 **Description:** Profiling side-channel attacks (SCA) allow evaluators to verify the worst-case security scenario of their products. Nowadays, deep learning has become the state-of-the-art method for profiling SCA as deep neural networks show the ability to learn side-channel leakages from protected implementations. While deep learning is a powerful technique for security evaluations, it offers numerous possibilities for neural network configurations and optimization techniques. Selecting the best setup for each evaluated product is far from trivial and requires expertise in SCA and deep learning fields. To improve SCA methods, and at the same time to be able to investigate the resistance of the product to more complex attack scenarios, researchers continuously propose new techniques.
+  Unfortunately, several obstacles are making the acceptance of such techniques a challenge. Security evaluators from the industry face difficulties following up on new promising methods. What is more, certification bodies also must be aware of new SCA techniques to issue the certifications. Indeed, one of the main issues is the lack of publicly available, easy-to-use frameworks that allow powerful and reliable side-channel analysis. Moreover, due to the absence of the uniformed evaluation/implementation method, the reproducibility of the outcomes is not easy to ensure.
 
-We propose AISY as a tool to allow state-of-the-art deep learning-based SCA. AISY is a python-based open-source framework, and it provides state-of-the-art functionalities for profiling SCA with easy usage, extensibility, reproducibility, integrated database, and user interface. We envision a system where the user can efficiently run the attacks with few lines of code and based on state-of-the-art but also extend those functionalities to support new developments. AISY supports the complete development cycle for deep learning-based SCA: from dataset preparation to the automated development of new models and their assessment concerning the side-channel metrics.
-
-</details>
-
-<details><summary><strong>C0deVari4nt</strong></summary>
-
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Chloe Ong](https://img.shields.io/badge/Chloe%20Ong-informational) ![Kar Wei Loh](https://img.shields.io/badge/Kar%20Wei%20Loh-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** None
+  We propose AISY as a tool to allow state-of-the-art deep learning-based SCA. AISY is a python-based open-source framework, and it provides state-of-the-art functionalities for profiling SCA with easy usage, extensibility, reproducibility, integrated database, and user interface. We envision a system where the user can efficiently run the attacks with few lines of code and based on state-of-the-art but also extend those functionalities to support new developments. AISY supports the complete development cycle for deep learning-based SCA: from dataset preparation to the automated development of new models and their assessment concerning the side-channel metrics.
 
 </details>
 
-<details><summary><strong>kdigger: A Context Discovery Tool for Kubernetes Penetration Testing</strong></summary>
+- <details><summary><strong>C0deVari4nt</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Mahé Tardy](https://img.shields.io/badge/Mahé%20Tardy-informational)
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Chloe Ong](https://img.shields.io/badge/Chloe%20Ong-informational) ![Kar Wei Loh](https://img.shields.io/badge/Kar%20Wei%20Loh-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** None
-
-</details>
-
-<details><summary><strong>Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint</strong></summary>
-
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Sili Luo](https://img.shields.io/badge/Sili%20Luo-informational)
-
-🔗 **Link:** [Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint](https://github.com/hac425xxx/hac425xxx)  
-📝 **Description:** For regular Linux kernels, we can use qemu or vmware, and then use gdb to debug the kernel, but for some special embedded devices, such as Android phones, it is difficult to debug and instrument the kernel. In order to debug the kernel, it often needs to recompile the kernel and use additional hardware.
-
-The characteristics of kinstrument are as follows:
-
-1. The kernel only needs to support the insertion of the ko module, the kernel does not need to be recompiled, and no additional hardware is required.
-2. Support instrumentation basic blocks, and get basic block coverage of kernel code
-3. Use the breakpoint mechanism to hook and debug arbitrary instructions.
-
-
-Kinstrument can be used for kernel debugging and Fuzz.
+  🔗 **Link:** Not Available  
+  📝 **Description:** None
 
 </details>
 
-<details><summary><strong>TMoC: Threat Modeler on Chain</strong></summary>
+- <details><summary><strong>kdigger: A Context Discovery Tool for Kubernetes Penetration Testing</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Yejun Kim](https://img.shields.io/badge/Yejun%20Kim-informational) ![Kwangsoo Cho](https://img.shields.io/badge/Kwangsoo%20Cho-informational) ![Paul Hong](https://img.shields.io/badge/Paul%20Hong-informational) ![Seungjoo Kim](https://img.shields.io/badge/Seungjoo%20Kim-informational)
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Mahé Tardy](https://img.shields.io/badge/Mahé%20Tardy-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** None
+  🔗 **Link:** Not Available  
+  📝 **Description:** None
+
+</details>
+
+- <details><summary><strong>Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint</strong></summary>
+
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Sili Luo](https://img.shields.io/badge/Sili%20Luo-informational)
+
+  🔗 **Link:** [Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint](https://github.com/hac425xxx/hac425xxx)  
+  📝 **Description:** For regular Linux kernels, we can use qemu or vmware, and then use gdb to debug the kernel, but for some special embedded devices, such as Android phones, it is difficult to debug and instrument the kernel. In order to debug the kernel, it often needs to recompile the kernel and use additional hardware.
+
+  The characteristics of kinstrument are as follows:
+
+  1. The kernel only needs to support the insertion of the ko module, the kernel does not need to be recompiled, and no additional hardware is required.
+  2. Support instrumentation basic blocks, and get basic block coverage of kernel code
+  3. Use the breakpoint mechanism to hook and debug arbitrary instructions.
+
+
+  Kinstrument can be used for kernel debugging and Fuzz.
+
+</details>
+
+- <details><summary><strong>TMoC: Threat Modeler on Chain</strong></summary>
+
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Yejun Kim](https://img.shields.io/badge/Yejun%20Kim-informational) ![Kwangsoo Cho](https://img.shields.io/badge/Kwangsoo%20Cho-informational) ![Paul Hong](https://img.shields.io/badge/Paul%20Hong-informational) ![Seungjoo Kim](https://img.shields.io/badge/Seungjoo%20Kim-informational)
+
+  🔗 **Link:** Not Available  
+  📝 **Description:** None
 
 </details>
 
