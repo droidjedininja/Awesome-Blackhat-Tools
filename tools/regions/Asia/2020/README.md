@@ -16,33 +16,33 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 - [🧠 Social Engineering / General](#-social-engineering--general)
 ---
 ## Others
-<details><summary><strong>Android Application Vulnerability Hunting System</strong></summary>
+- <details><summary><strong>Android Application Vulnerability Hunting System</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Lance Jiang](https://img.shields.io/badge/Lance%20Jiang-informational) ![Todd Han](https://img.shields.io/badge/Todd%20Han-informational) ![Lilang Wu](https://img.shields.io/badge/Lilang%20Wu-informational)
+  ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Lance Jiang](https://img.shields.io/badge/Lance%20Jiang-informational) ![Todd Han](https://img.shields.io/badge/Todd%20Han-informational) ![Lilang Wu](https://img.shields.io/badge/Lilang%20Wu-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** So far, there are many tools for vulnerability scanning, such as Mobsf, Yaazhini, 360 microscope, Tencent King Kong system. These tools have been able to cover a large part of the app vulnerability and many have supported dynamic and static vulnerability scanning, but there are a lot of false alert. The purpose of dynamic and static combination is also to improve the accuracy of vulnerability scanning, thereby reducing the rate of false alert, and also can make up for the shortcomings each other, so as to find out the vulnerabilities as much as possible, but the system is too large, the maintenance cost is high, and the scanning result is not ideally, it would be better that there is a simple and efficient tool.
+  🔗 **Link:** Not Available  
+  📝 **Description:** So far, there are many tools for vulnerability scanning, such as Mobsf, Yaazhini, 360 microscope, Tencent King Kong system. These tools have been able to cover a large part of the app vulnerability and many have supported dynamic and static vulnerability scanning, but there are a lot of false alert. The purpose of dynamic and static combination is also to improve the accuracy of vulnerability scanning, thereby reducing the rate of false alert, and also can make up for the shortcomings each other, so as to find out the vulnerabilities as much as possible, but the system is too large, the maintenance cost is high, and the scanning result is not ideally, it would be better that there is a simple and efficient tool.
 
-SAST is a static android application vulnerability scanning tool. The architecture is simple and easy to use, and the maintenance cost is very low. Although it is a static scanning tool, the accuracy is very high. It is consists of androguard and vulnerability patterns. Because androguard is a powerful open source tool, it is highly customizable and provides excellent support in apk analysis. The vulnerability pattern mainly integrates the known and the latest app vulnerability features. Each pattern is independent of each other, no influence on each other, and strong scalability, so it is fast to update a new pattern and have a good performance. At the same time, it is used to scan various types of top500 applications in Google Play, and found out a lot of potential security issues for many applications, and we submitted some vulnerabilities to the vendors, which are currently being processed.
+  SAST is a static android application vulnerability scanning tool. The architecture is simple and easy to use, and the maintenance cost is very low. Although it is a static scanning tool, the accuracy is very high. It is consists of androguard and vulnerability patterns. Because androguard is a powerful open source tool, it is highly customizable and provides excellent support in apk analysis. The vulnerability pattern mainly integrates the known and the latest app vulnerability features. Each pattern is independent of each other, no influence on each other, and strong scalability, so it is fast to update a new pattern and have a good performance. At the same time, it is used to scan various types of top500 applications in Google Play, and found out a lot of potential security issues for many applications, and we submitted some vulnerabilities to the vendors, which are currently being processed.
 
 </details>
 
-<details><summary><strong>Mobexler: An All-in-One Mobile Pentest VM</strong></summary>
+- <details><summary><strong>Mobexler: An All-in-One Mobile Pentest VM</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Abhinav Mishra](https://img.shields.io/badge/Abhinav%20Mishra-informational)
+  ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Abhinav Mishra](https://img.shields.io/badge/Abhinav%20Mishra-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** Mobexler is a mobile pentest VM that include a wide variety of tools to help in Android and iOS pentesting. It includes tools for both static and dynamic analysis of applications. It allows pentesters to use a single VM to pentest both Android and iOS applications. With the host OS as elementary it also provides an awesome UI experience and allow for intuitive usage of tools just like you would on a host install. External devices can be connected via USB and can be used to install and test application.
+  🔗 **Link:** Not Available  
+  📝 **Description:** Mobexler is a mobile pentest VM that include a wide variety of tools to help in Android and iOS pentesting. It includes tools for both static and dynamic analysis of applications. It allows pentesters to use a single VM to pentest both Android and iOS applications. With the host OS as elementary it also provides an awesome UI experience and allow for intuitive usage of tools just like you would on a host install. External devices can be connected via USB and can be used to install and test application.
 
-Why we made Mobexler ?
+  Why we made Mobexler ?
 
-We made Mobexler because there was no such platforms out there which was up to date with the latest pentest tools for both static and dynamic testing which included tools like frida and objection and can be used for both android and ios pentesting. Mobexler was built keeping in mind that any user can just download the VM and begins testing for both platforms without going through the trouble of installation and configuration of all the different tools required.
+  We made Mobexler because there was no such platforms out there which was up to date with the latest pentest tools for both static and dynamic testing which included tools like frida and objection and can be used for both android and ios pentesting. Mobexler was built keeping in mind that any user can just download the VM and begins testing for both platforms without going through the trouble of installation and configuration of all the different tools required.
 
-Future work includes:
-1. Reduce the VM size.
-2. Include reading material in the VM itself.
-3. Add a custom repository which can be used to directly install the tools and not download the VM.
-4. Build the VM for different Linux flavours.
+  Future work includes:
+  1. Reduce the VM size.
+  2. Include reading material in the VM itself.
+  3. Add a custom repository which can be used to directly install the tools and not download the VM.
+  4. Build the VM for different Linux flavours.
 
 </details>
 
