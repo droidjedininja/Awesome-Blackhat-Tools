@@ -5,98 +5,98 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ## 📚 Table of Contents
 - [Others](#others)
-- [🌐 Web/AppSec](#🌐-webappsec)
-- [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
-- [🔍 OSINT](#🔍-osint)
-- [🔴 Red Teaming](#🔴-red-teaming)
-- [🔴 Red Teaming / AppSec](#🔴-red-teaming-appsec)
-- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
-- [🧠 Reverse Engineering](#🧠-reverse-engineering)
-- [🧠 Social Engineering / General](#🧠-social-engineering-general)
+- [🌐 Web/AppSec](#-webappsec)
+- [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming)
+- [🔍 OSINT](#-osint)
+- [🔴 Red Teaming](#-red-teaming)
+- [🔴 Red Teaming / AppSec](#-red-teaming--appsec)
+- [🔵 Blue Team & Detection](#-blue-team--detection)
+- [🧠 Reverse Engineering](#-reverse-engineering)
+- [🧠 Social Engineering / General](#-social-engineering--general)
 ---
 ## 🔴 Red Teaming / AppSec
-<details><summary><strong>Adversarial Threat Detector</strong></summary>
+- <details><summary><strong>Adversarial Threat Detector</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Isao Takaesu](https://img.shields.io/badge/Isao%20Takaesu-informational)
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Isao Takaesu](https://img.shields.io/badge/Isao%20Takaesu-informational)
 
-🔗 **Link:** [Adversarial Threat Detector](https://github.com/gyoisamurai/Adversarial-Threat-Detector)  
-📝 **Description:** In recent years, deep learning technology has been developing, and various systems using deep learning are spreading in our society, such as face recognition, security cameras (anomaly detection), and ADAS (Advanced Driver-Assistance Systems).
+  🔗 **Link:** [Adversarial Threat Detector](https://github.com/gyoisamurai/Adversarial-Threat-Detector)  
+  📝 **Description:** In recent years, deep learning technology has been developing, and various systems using deep learning are spreading in our society, such as face recognition, security cameras (anomaly detection), and ADAS (Advanced Driver-Assistance Systems).
 
-On the other hand, there are many attacks that exploit vulnerabilities in deep learning algorithms. For example, the Evasion Attacks are an attack that causes the target classifier to misclassify the Adversarial Examples into the class intended by the adversary. The Exfiltration Attacks are an attack that steals the parameters and train data of a target classifier. If your system is vulnerable to these attacks, it can lead to serious incidents such as face recognition being breached, allowing unauthorized intrusion, or information leakage due to inference of train data.
+  On the other hand, there are many attacks that exploit vulnerabilities in deep learning algorithms. For example, the Evasion Attacks are an attack that causes the target classifier to misclassify the Adversarial Examples into the class intended by the adversary. The Exfiltration Attacks are an attack that steals the parameters and train data of a target classifier. If your system is vulnerable to these attacks, it can lead to serious incidents such as face recognition being breached, allowing unauthorized intrusion, or information leakage due to inference of train data.
 
-So we released a vulnerability scanner called "Adversarial Threat Detector" (a.k.a. ATD), which automatically detects vulnerabilities in deep learning-based classifiers.
+  So we released a vulnerability scanner called "Adversarial Threat Detector" (a.k.a. ATD), which automatically detects vulnerabilities in deep learning-based classifiers.
 
-ATD contributes to the security of your classifier by executing the four cycles of "Detecting vulnerabilities (Scanning & Detection)", "Understanding vulnerabilities (Understanding)", "Fixing vulnerabilities (Fix)", and "Check fixed vulnerabilities (Re-Scanning)".
+  ATD contributes to the security of your classifier by executing the four cycles of "Detecting vulnerabilities (Scanning & Detection)", "Understanding vulnerabilities (Understanding)", "Fixing vulnerabilities (Fix)", and "Check fixed vulnerabilities (Re-Scanning)".
 
-1. Detecting vulnerabilities（Scanning & Detection）
-ATD automatically executes a variety of attacks against the classifier and detects vulnerabilities.
+  - Detecting vulnerabilities（Scanning & Detection）
+  ATD automatically executes a variety of attacks against the classifier and detects vulnerabilities.
 
-2. Understanding vulnerabilities (Understanding)
-When a vulnerability is detected, ATD will generate a countermeasure report (HTML style) and a replay environment (ipynb style) of the vulnerabilities. Developers can understand the vulnerabilities by referring to the countermeasure report and the replay environment.
+  - Understanding vulnerabilities (Understanding)
+  When a vulnerability is detected, ATD will generate a countermeasure report (HTML style) and a replay environment (ipynb style) of the vulnerabilities. Developers can understand the vulnerabilities by referring to the countermeasure report and the replay environment.
 
-3. Fixing vulnerabilities (Fix)
+  - Fixing vulnerabilities (Fix)
 ATD automatically fixes detected vulnerabilities.
 
-4. Check fixed vulnerabilities (Re-Scanning)
+  - Check fixed vulnerabilities (Re-Scanning)
 The ATD checks fixed vulnerabilities of the fixed classifier.
 
-Our "Adversarial Threat Detector" will contribute greatly to keep your safety.
+  Our "Adversarial Threat Detector" will contribute greatly to keep your safety.
 
 </details>
 
-<details><summary><strong>Demystifying the State of Kubernetes Cluster Security - The Cloud Native Way</strong></summary>
+- <details><summary><strong>Demystifying the State of Kubernetes Cluster Security - The Cloud Native Way</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Vasant Chinnipilli](https://img.shields.io/badge/Vasant%20Chinnipilli-informational) ![Rupali Dash](https://img.shields.io/badge/Rupali%20Dash-informational)
+  ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Vasant Chinnipilli](https://img.shields.io/badge/Vasant%20Chinnipilli-informational) ![Rupali Dash](https://img.shields.io/badge/Rupali%20Dash-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** Attackers always get better with new attack techniques, so our threat modelling and defense mechanisms needs to level up.
+  🔗 **Link:** Not Available  
+  📝 **Description:** Attackers always get better with new attack techniques, so our threat modelling and defense mechanisms needs to level up.
 
-The security of the Kubernetes cluster, of course, cannot be achieved in a single process. There are many moving parts within the Kubernetes cluster that must be properly secured.
+  The security of the Kubernetes cluster, of course, cannot be achieved in a single process. There are many moving parts within the Kubernetes cluster that must be properly secured.
 
-Kube-striker performs numerous in depth checks on kubernetes infra to identify the security misconfigurations and challenges that devops/developers are likely to encounter when using Kubernetes.
+  Kube-striker performs numerous in depth checks on kubernetes infra to identify the security misconfigurations and challenges that devops/developers are likely to encounter when using Kubernetes.
 
-Kube-striker is Platform agnostic and works equally well across more than one platform such as self hosted kubernetes, EKS, AKS, GKE etc.
+  Kube-striker is Platform agnostic and works equally well across more than one platform such as self hosted kubernetes, EKS, AKS, GKE etc.
 
 </details>
 
 ---
 ## Others
-<details><summary><strong>AOP-Based Runtime Security Analysis Toolkit</strong></summary>
+- <details><summary><strong>AOP-Based Runtime Security Analysis Toolkit</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Juhu Nie](https://img.shields.io/badge/Juhu%20Nie-informational) ![Hao Zhao](https://img.shields.io/badge/Hao%20Zhao-informational)
+  ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Juhu Nie](https://img.shields.io/badge/Juhu%20Nie-informational) ![Hao Zhao](https://img.shields.io/badge/Hao%20Zhao-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** We will release an open source runtime security analysis toolkit, aosanalyzer, for Android application. This tool is mainly used to find application security vulnerabilities and privacy leaks that are difficult to find by static APK analysis. The aosanalyzer uses aspect-oriented programming in security technology to insert code into critical paths of the application to record the runtime information (e.g., the stack trace, parameters, UI events, etc.), and then produces a report with security issues highlights. These critical paths are configurable and the aosanalyzer tool includes a default configuration. Developers and security researchers can observe the detailed runtime information of the application to find vulnerability and privacy leak issues without requiring any modification of the APK. Relying on this tool, we have discovered dozens of security vulnerabilities due to lack of parameter validation and privacy leaks issues.
-
-</details>
-
-<details><summary><strong>Drone Monitoring and Takedown System (DMTS)</strong></summary>
-
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Pengfei Yu](https://img.shields.io/badge/Pengfei%20Yu-informational) ![Anders Soh](https://img.shields.io/badge/Anders%20Soh-informational) ![Yong Wen Chan](https://img.shields.io/badge/Yong%20Wen%20Chan-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** The rise of commercial drones/Unmanned Aerial Vehicles (UAV) has dramatically changed several industries and our daily lives. This emergence is also challenging our concept of safety, security, privacy and regulation. With their ability to amass data and transport loads, drones are changing our views about our physical environment. Commercial drones are now used for surveying, inspecting and imaging with more technological advancements being pushed out by active communities of hobbyists and enthusiasts. Although their commercial use has been criticised by both individuals and activist organisations, this tension presents unique challenges to integration in the current public, government and private sectors. Recent incidents regarding drone disruptions and malicious activities has further cemented the fact that there is a lack in control and regulation of drones. Thus, we created DMTS as an automated drone-to-drone solution that hopefully helps to alleviate our regulatory and physical security needs.
+  🔗 **Link:** Not Available  
+  📝 **Description:** We will release an open source runtime security analysis toolkit, aosanalyzer, for Android application. This tool is mainly used to find application security vulnerabilities and privacy leaks that are difficult to find by static APK analysis. The aosanalyzer uses aspect-oriented programming in security technology to insert code into critical paths of the application to record the runtime information (e.g., the stack trace, parameters, UI events, etc.), and then produces a report with security issues highlights. These critical paths are configurable and the aosanalyzer tool includes a default configuration. Developers and security researchers can observe the detailed runtime information of the application to find vulnerability and privacy leak issues without requiring any modification of the APK. Relying on this tool, we have discovered dozens of security vulnerabilities due to lack of parameter validation and privacy leaks issues.
 
 </details>
 
-<details><summary><strong>LIFARS IOC-Checker + Log-Checker = Accelerate Your DFIR With the Power of Threat Intelligence</strong></summary>
+- <details><summary><strong>Drone Monitoring and Takedown System (DMTS)</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Viliam Kacala](https://img.shields.io/badge/Viliam%20Kacala-informational) ![Ladislav Baco](https://img.shields.io/badge/Ladislav%20Baco-informational)
+  ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Pengfei Yu](https://img.shields.io/badge/Pengfei%20Yu-informational) ![Anders Soh](https://img.shields.io/badge/Anders%20Soh-informational) ![Yong Wen Chan](https://img.shields.io/badge/Yong%20Wen%20Chan-informational)
 
-🔗 **Link:** Not Available  
-📝 **Description:** IocChecker is a new utility to find indicators of compromise.
-It is a full-stack application comprising a CLI probe, DB backend, and a Web admin console.
-IOCs are defined using a custom tree-based JSON format with the support of conversion from/to MISP.
-It searches IOCs using the following criteria also with the support of regular expressions:
-- Filename/hash,
-- Running process name/hash,
-- Windows registry name/value,
-- DNS address,
-- Open network connections by name/IP,
-- Certificate name,
-- Process mutex.
+  🔗 **Link:** Not Available  
+  📝 **Description:** The rise of commercial drones/Unmanned Aerial Vehicles (UAV) has dramatically changed several industries and our daily lives. This emergence is also challenging our concept of safety, security, privacy and regulation. With their ability to amass data and transport loads, drones are changing our views about our physical environment. Commercial drones are now used for surveying, inspecting and imaging with more technological advancements being pushed out by active communities of hobbyists and enthusiasts. Although their commercial use has been criticised by both individuals and activist organisations, this tension presents unique challenges to integration in the current public, government and private sectors. Recent incidents regarding drone disruptions and malicious activities has further cemented the fact that there is a lack in control and regulation of drones. Thus, we created DMTS as an automated drone-to-drone solution that hopefully helps to alleviate our regulatory and physical security needs.
 
-LogChecker is a new Windows and Linux tool for scanning log files, developed by LIFARS. It extracts IP addresses, domain names, and hashes from the input file. Findings are checked in the YETI Threat Intelligence database. It supports Windows EVTX logs, text-based logos, or any plaintext files. Output can be in CSV format for better human readability or in JSON for computer processing.
+</details>
+
+- <details><summary><strong>LIFARS IOC-Checker + Log-Checker = Accelerate Your DFIR With the Power of Threat Intelligence</strong></summary>
+
+  ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Viliam Kacala](https://img.shields.io/badge/Viliam%20Kacala-informational) ![Ladislav Baco](https://img.shields.io/badge/Ladislav%20Baco-informational)
+
+  🔗 **Link:** Not Available  
+  📝 **Description:** IocChecker is a new utility to find indicators of compromise.
+  It is a full-stack application comprising a CLI probe, DB backend, and a Web admin console.
+  IOCs are defined using a custom tree-based JSON format with the support of conversion from/to MISP.
+  It searches IOCs using the following criteria also with the support of regular expressions:
+  - Filename/hash,
+  - Running process name/hash,
+  - Windows registry name/value,
+  - DNS address,
+  - Open network connections by name/IP,
+  - Certificate name,
+  - Process mutex.
+
+  LogChecker is a new Windows and Linux tool for scanning log files, developed by LIFARS. It extracts IP addresses, domain names, and hashes from the input file. Findings are checked in the YETI Threat Intelligence database. It supports Windows EVTX logs, text-based logos, or any plaintext files. Output can be in CSV format for better human readability or in JSON for computer processing.
 
 </details>
 
