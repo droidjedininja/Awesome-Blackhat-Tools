@@ -60,27 +60,27 @@ Red Teaming involves offensive tactics, adversary simulations, lateral movement,
 
       This tool is particularly useful for penetration testers, red teamers, and forensic investigators, as it facilitates the analysis of system security               vulnerabilities and aids in digital forensic investigations. DeadMatter can be very useful to pentesters and red teamers during their engagements, since           they often have to deal with EDR and AV software detecting and/or blocking their attempts to dump the LSASS process memory in the minidump format. The             alternative of dumping and exfiltrating a full memory dump is often not an option. As a result, DeadMatter was created to fill the gap and allow the               offensive team to parse the memory dump files directly on the victim machine, in order to extract NTLM hashes on the spot.
 
-</details>
+    </details>
 
-<details><summary><strong>EntraGoat - A Deliberately Vulnerable Entra ID Environment</strong></summary>
+    - <details><summary><strong>EntraGoat - A Deliberately Vulnerable Entra ID Environment</strong></summary>
 
-📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
+       📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
 
-🔗 **GitHub:** Not Available  
-📝 **Description:** EntraGoat is a deliberately vulnerable environment designed to simulate real-world security misconfigurations and attack scenarios in Microsoft Entra ID (formerly Azure Active Directory). Security professionals, researchers, and red teamers can leverage EntraGoat to gain hands-on experience identifying and exploiting identity and access management (IAM) vulnerabilities, privilege escalation paths, and other security flaws specific to cloud-based Entra ID environments.
+       🔗 **GitHub:** Not Available  
+       📝 **Description:** EntraGoat is a deliberately vulnerable environment designed to simulate real-world security misconfigurations and attack scenarios in Microsoft Entra ID (formerly Azure Active Directory). Security professionals, researchers, and red teamers can leverage EntraGoat to gain hands-on experience identifying and exploiting identity and access management (IAM) vulnerabilities, privilege escalation paths, and other security flaws specific to cloud-based Entra ID environments.
 EntraGoat is tailored specifically to help security practitioners understand and mitigate the risks associated with cloud identity infrastructures. The project provides a CTF-style learning experience, covering a range of misconfigurations, insecure policies, token abuses, and attack paths commonly exploited in real-world Entra ID breaches.
 By using EntraGoat, security teams can enhance their skills in Entra ID security, validate detection and response capabilities, and develop effective hardening strategies.
 
-</details>
+    </details>
 
-<details><summary><strong>From Recon to Pwn: MSSQL Exploitation with MSSqlPwner</strong></summary>
+    - <details><summary><strong>From Recon to Pwn: MSSQL Exploitation with MSSqlPwner</strong></summary>
 
-📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
+        📅 **Presented:** [![Tools](https://img.shields.io/badge/Black_Hat_Tools-USA_2025-blue)](https://github.com/UCYBERS/Awesome-BlackHat-Tools)  
 
-🔗 **GitHub:** Not Available  
-📝 **Description:** MSSqlPwner is a sophisticated penetration testing arsenal specifically engineered to dominate Microsoft SQL Server environments. Leveraging the extensive capabilities of the Impacket toolkit, MSSqlPwner arms penetration testers with a powerful suite of exploitation techniques, including authentication attacks using Kerberos tickets, NTLM hashes, and clear-text credentials. This versatile tool excels at advanced maneuvers such as NTLM relay attacks, Kerberos and NTLM password bruteforcing, and even direct password extraction via LDAP integration—transforming standard SQL servers into strategic entry points for escalating privileges and lateral network infiltration.
+        🔗 **GitHub:** Not Available  
+        📝 **Description:** MSSqlPwner is a sophisticated penetration testing arsenal specifically engineered to dominate Microsoft SQL Server environments. Leveraging the extensive capabilities of the Impacket toolkit, MSSqlPwner arms penetration testers with a powerful suite of exploitation techniques, including authentication attacks using Kerberos tickets, NTLM hashes, and clear-text credentials. This versatile tool excels at advanced maneuvers such as NTLM relay attacks, Kerberos and NTLM password bruteforcing, and even direct password extraction via LDAP integration—transforming standard SQL servers into strategic entry points for escalating privileges and lateral network infiltration.
 
-</details>
+    </details>
 
 <details><summary><strong>Glato: GitLab Attack Toolkit</strong></summary>
 
